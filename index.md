@@ -16,7 +16,7 @@ However, it is important to note that the interval between reviews can vary from
 
 <p align="center">
       <img src="img/curve2.png" width="500"><br>
-      <em>The diagram illustrates that with each review session, the time it takes for the memorized information to be forgotten is extended.</em>
+      <em>With each review session, the retention period for the memorized information is extended, allowing for longer intervals between subsequent repetitions.</em>
    </p>
 
 ### 2.2. Anki: a Flashcard Program that Leverages the Spaced Repetition Technique 📇
