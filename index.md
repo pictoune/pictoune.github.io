@@ -6,9 +6,9 @@ Learning a new language is a significant challenge, especially when it comes to 
 
 [Illustration: A frustrated person in front of a pile of language books and vocabulary flashcards]
 
-## 2. The Secret Sauce: Spaced Repetition and AI-Powered Flashcards 🧠
+## 2. The Secret Sauce 🍯: Spaced Repetition and AI-Powered Flashcards 
 
-### 2.1. Spaced Repetition: A Scientifically Proven Solution to Learn 🧬
+### 2.1. Spaced Repetition: A Scientifically Proven Solution to Learn 🧠
 
 Fortunately, there's a scientifically proven technique that can make learning more efficient: spaced repetition. This method involves reviewing information at increasing time intervals, leveraging how our brain forms and consolidates long-term memories.
 
@@ -28,7 +28,7 @@ Whether you're a beginner or aiming for fluency, this method will transform how 
 
 #### 2.3.2 Which languages are currently supported? 🌐
 
-AnkiLingoFlash supports a variety of languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
+AnkiLingoFlash supports the following languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
 
 ### 2.3.3 How much does it cost? 💵
 
