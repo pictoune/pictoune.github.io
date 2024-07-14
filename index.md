@@ -8,7 +8,7 @@ Learning a new language is a significant challenge, especially when it comes to 
 
 ## 2. The Secret Sauce 🍯: Spaced Repetition and AI-generated Flashcards 
 
-### 2.1. Understanding the Review Process 🧠
+### 2.1. Understanding the Review Process 📖
 
 The review process plays a critical role in consolidating knowledge in long-term memory. The more we review a piece of information, the more deeply it becomes ingrained in our memory. Consequently, for optimal learning — in terms of efficient use of time — it is essential that the repetitions are increasingly spaced out over time. This technique is based on the principle of spaced repetition. This method not only strengthens the memories but also makes them more resistant to forgetting.
 
