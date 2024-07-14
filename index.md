@@ -1,4 +1,4 @@
-# Master Any Language at Record Speed with AnkiLingoFlash
+# Master Languages at Record Speed with AnkiLingoFlash
 
 ## 1. The Challenge of Vocabulary Acquisition in Foreign Languages
 
@@ -17,10 +17,19 @@ Fortunately, there's a scientifically proven technique that can make learning mo
 To implement spaced repetition effectively, we turn to Anki, a free flashcard application that optimizes the learning process by automatically scheduling reviews based on your performance. Anki ensures that you review your flashcards just at the right time to maximize retention.
 
 ### 2.3. AnkiLingoFlash: a Web Extension for Automatically Creating Clever Flashcards 
+#### 2.3.1 Why should you adopt AnkiLing Flash?
+While Anki is powerful, creating flashcards manually can still be tedious. This is where AnkiLingoFlash comes in. AnkiLingoFlash is a browser extension designed to make flashcard creation effortless and quick. It uses artificial intelligence to instantly generate quality cards from any word or phrase you select on a web page. 
 
-While Anki is powerful, creating flashcards manually can still be tedious. This is where AnkiLingoFlash comes in. AnkiLingoFlash is a browser extension designed to make flashcard creation effortless and quick. It uses artificial intelligence to instantly generate quality cards from any word or phrase you select on a web page.
+Whether you're a beginner or aiming for fluency, this method will transform how you learn languages. Start today and watch your language skills take off! 🚀📚🌍
 
-## Step-by-Step User Experience
+#### 2.3.3 Which languages are currently supported?
+AnkiLingoFlash supports a variety of languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
+
+
+AnkiLingoFlash offers a limited number of free flashcards to get started. After that, you can use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards).
+
+
+## 3. How do we use AnkiLingoFlash?
 
 Here’s how AnkiLingoFlash works in practice:
 
@@ -53,21 +62,4 @@ Here’s how AnkiLingoFlash works in practice:
       <em>Review in Anki: After creating your flashcards, review them in Anki and use the pronunciation guide as many times as you need.</em>
    </p>
 
-## Impact and Benefits of This Method
 
-The combined power of Anki and AnkiLingoFlash offers numerous benefits:
-
-- **Contextual Learning:** Capture words as you encounter them in real texts.
-- **Significant Time Savings:** No more manual dictionary searches or card creation.
-- **Enhanced Memorization:** AI-generated mnemonics boost your memory.
-- **Increased Motivation:** Quick results keep you engaged in learning.
-
-## Currently Supported Languages
-
-AnkiLingoFlash supports a variety of languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
-
-## How Much Does It Cost?
-
-AnkiLingoFlash offers a limited number of free flashcards to get started. After that, you can use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards).
-
-Whether you're a beginner or aiming for fluency, this method will transform how you learn languages. Start today and watch your language skills take off! 🚀📚🌍
