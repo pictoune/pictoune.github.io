@@ -1,4 +1,4 @@
-# Master Any Language at Record Speed: The AnkiLingoFlash Method
+# Master Any Language at Record Speed with AnkiLingoFlash
 
 ## 1. The Challenge of Vocabulary Acquisition in Foreign Languages
 
