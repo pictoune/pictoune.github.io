@@ -76,9 +76,8 @@ Here’s how AnkiLingoFlash works in practice:
    </p>
 
 ### 3.4. Reviewing in Anki 🔄
-
    <p align="center">
-      <img src="img/4.png" alt="Screenshot: Anki review interface" width="500">
-      <img src="img/5.png" alt="Screenshot: Additional feature" width="500"><br>
+      <img src="img/4.png" alt="Screenshot: Anki review interface" width="250" style="margin-right: 10px;">
+      <img src="img/5.png" alt="Screenshot: Additional feature" width="250"><br>
       <em>Review in Anki: After creating your flashcards, review them in Anki and use the pronunciation guide as many times as you need.</em>
    </p>
