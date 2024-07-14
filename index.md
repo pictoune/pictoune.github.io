@@ -24,7 +24,7 @@ To implement spaced repetition effectively, we turn to Anki, a free flashcard ap
 
 While Anki is powerful, creating flashcards manually can still be tedious. This is where AnkiLingoFlash comes in. AnkiLingoFlash is a browser extension designed to make flashcard creation effortless and quick. It uses artificial intelligence to instantly generate quality cards from any word or phrase you select on a web page.
 
-Whether you're a beginner or aiming for fluency, this method will transform how you learn languages. Start today and watch your language skills take off! 🚀
+Typically, the level we strive for is being able to communicate fluently and clearly in any situation, without necessarily being an expert in the language. For example, to reach the B2 level, which is considered fluent, you need to know around 4,000 words. With AnkiLingoFlash, you can achieve this level in under 9 months by dedicating just 20 minutes a day to learning 15 new cards and reviewing existing ones. This means you can rapidly build a strong foundation in your target language, and with some additional practice, you'll be speaking confidently in no time! 🚀
 
 #### 2.3.2 Which languages are currently supported? 🌐
 
@@ -77,7 +77,7 @@ Here’s how AnkiLingoFlash works in practice:
 
 ### 3.4. Reviewing in Anki 🔄
    <p align="center">
-      <img src="img/4.png" alt="Screenshot: Anki review interface" width="250" style="margin-right: 10px;">
-      <img src="img/5.png" alt="Screenshot: Additional feature" width="250"><br>
+      <img src="img/4.png" alt="Screenshot: Anki review interface" width="500" style="margin-right: 10px;">
+      <img src="img/5.png" alt="Screenshot: Additional feature" width="500"><br>
       <em>Review in Anki: After creating your flashcards, review them in Anki and use the pronunciation guide as many times as you need.</em>
    </p>
