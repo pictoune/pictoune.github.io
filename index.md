@@ -30,7 +30,7 @@ Typically, the level we strive for is being able to communicate fluently and cle
 
 AnkiLingoFlash supports the following languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
 
-### 2.3.3 How much does it cost? 💵
+#### 2.3.3 How much does it cost? 💵
 
 AnkiLingoFlash offers a limited number of free flashcards to get started. After that, you can use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards). Follow these steps to create and use an OpenAI API key:
 
