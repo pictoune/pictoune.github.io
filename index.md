@@ -1,6 +1,6 @@
 # Master Languages at Record Speed with AnkiLingoFlash ⚡️
 
-## 1. The Challenge of Vocabulary Acquisition in Foreign Languages 📚
+## 1. The Challenge of Vocabulary Acquisition in Foreign Languages 🌎
 
 Learning a new language is a significant challenge, especially when it comes to acquiring and retaining a large vocabulary. Traditional methods are often time-consuming and ineffective in the long run.
 
@@ -82,14 +82,14 @@ Here’s how AnkiLingoFlash works in practice:
       <em>Review the flashcard: Check the AI-generated definition and mnemonic. Request a new generation or edit manually if needed.</em>
    </p>
 
-### 3.3. Language Confirmation 🌐
+### 3.3. Language Confirmation ✅
 
    <p align="center">
       <img src="img/3.png" alt="Screenshot: Language selection for the word" width="500"><br>
       <em>Choose the deck: Select the Anki deck to add your new flashcard to, and you’re done! Also, define the language of the selected word if the automatic detection fails.</em>
    </p>
 
-### 3.4. Reviewing in Anki 🔄
+### 3.4. Reviewing in Anki 📚
 
 <div style="display: flex; justify-content: center;">
    <img src="img/4.png" alt="Screenshot: Anki review interface" width="400" style="margin-right: 10px; border: none;">
