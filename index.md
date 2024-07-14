@@ -32,7 +32,7 @@ AnkiLingoFlash is a browser extension designed to make flashcard creation as eff
    <img src="img/3.png" alt="Screenshot: Language selection for the word" width="300">
 
 4. Reviewing in Anki
-   <img src="img/4.png" alt="Screenshot: Anki review interface" width="300"> <img src="5.png" alt="Screenshot: Additional feature" width="300">
+   <img src="img/4.png" alt="Screenshot: Anki review interface" width="300"> <img src="img/5.png" alt="Screenshot: Additional feature" width="300">
 
 ## Impact and Benefits of This Method
 
