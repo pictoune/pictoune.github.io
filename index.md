@@ -7,16 +7,16 @@ Learning a new language is a significant challenge, especially when it comes to 
 [Illustration: A frustrated person in front of a pile of language books and vocabulary flashcards]
 
 ## 2. The Secret Sauce: Spaced Repetition and AI-Powered Flashcards
-### Spaced Repetition: A Scientifically Proven Solution to Learn
+### 2.1. Spaced Repetition: A Scientifically Proven Solution to Learn
 Fortunately, there's a scientifically proven technique that can make learning more efficient: spaced repetition. This method involves reviewing information at increasing time intervals, leveraging how our brain forms and consolidates long-term memories.
 
 [Diagram: Forgetting curve and the impact of spaced repetition on memorization]
 
-### Anki: a Flashcard Program that Leverages the Spaced Repetition Technique
+### 2.2. Anki: a Flashcard Program that Leverages the Spaced Repetition Technique
 
 To implement spaced repetition effectively, we turn to Anki, a free flashcard application that optimizes the learning process by automatically scheduling reviews based on your performance. Anki ensures that you review your flashcards just at the right time to maximize retention.
 
-### AnkiLingoFlash: a Web Extension for Automatically Creating Clever Flashcards 
+### 2.3. AnkiLingoFlash: a Web Extension for Automatically Creating Clever Flashcards 
 
 While Anki is powerful, creating flashcards manually can still be tedious. This is where AnkiLingoFlash comes in. AnkiLingoFlash is a browser extension designed to make flashcard creation effortless and quick. It uses artificial intelligence to instantly generate quality cards from any word or phrase you select on a web page.
 
