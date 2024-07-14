@@ -1,4 +1,4 @@
-# Master Languages at Record Speed with AnkiLingoFlash 🌍
+# Master Languages at Record Speed with AnkiLingoFlash ⚡️
 
 ## 1. The Challenge of Vocabulary Acquisition in Foreign Languages 📚
 
