@@ -8,18 +8,22 @@ Learning a new language is a significant challenge, especially when it comes to 
 
 ## 2. The Secret Sauce 🍯: Spaced Repetition and AI-generated Flashcards 
 
-### 2.1. Spaced Repetition: A Scientifically Proven Solution to Learn 🧬
+### 2.1. Understanding the Review Process 🧠
 
-Fortunately, there's a scientifically proven technique that can make learning more efficient: spaced repetition. This method involves reviewing information at increasing time intervals, leveraging how our brain forms and consolidates long-term memories.
+The review process plays a critical role in consolidating knowledge in long-term memory. The more we review a piece of information, the more deeply it becomes ingrained in our memory. Consequently, for optimal learning — in terms of efficient use of time — it is essential that the repetitions are increasingly spaced out over time. This technique is based on the principle of spaced repetition. This method not only strengthens the memories but also makes them more resistant to forgetting.
+
+However, it is important to note that the interval between reviews can vary from person to person and from concept to concept. Factors such as the complexity of the material and individual performance during reviews play a significant role in this variation. This is where Anki steps in with an algorithmic, adaptive approach.
 
 <p align="center">
       <img src="img/curve2.png" width="500"><br>
-      <em>...</em>
+      <em>The diagram illustrates that with each review session, the time it takes for the memorized information to be forgotten is extended.</em>
    </p>
 
 ### 2.2. Anki: a Flashcard Program that Leverages the Spaced Repetition Technique 📇
 
-To implement spaced repetition effectively, we turn to Anki, a free flashcard application that optimizes the learning process by automatically scheduling reviews based on your performance. Anki ensures that you review your flashcards just at the right time to maximize retention.
+Anki is a powerful tool that leverages the theory of spaced repetition to optimize our learning. Using sophisticated algorithms, Anki calculates the optimal date for reviewing each card based on your past performance. This personalized approach allows for spaced reviews that maximize retention while minimizing the time spent reviewing.
+
+When you answer a card correctly, Anki extends the interval before your next review of that card. Conversely, if you make a mistake, the application shortens the interval. Over time, this methodology leads to increasingly spaced reviews for each memorized item, promoting efficient and lasting knowledge consolidation. Through Anki, you can thus focus on the elements that need the most attention, making your learning not only more effective but also more targeted.
 
 ### 2.3. AnkiLingoFlash: a Web Extension for Automatically Creating Clever Flashcards 🧠
 
