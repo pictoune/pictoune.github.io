@@ -25,26 +25,30 @@ AnkiLingoFlash is a browser extension designed to make flashcard creation as eff
 1. Word Selection
 
    <p align="center">
-      <img src="img/1.png" alt="Screenshot: Selecting a word on a web page and the context menu" width="300">
+      <img src="img/1.png" alt="Screenshot: Selecting a word on a web page and the context menu" width="300"><br>
+      <em>Select text and right-click: Highlight a word or phrase, right-click, and choose the option to generate a flashcard.</em>
    </p>
 
 2. Card Generation
 
    <p align="center">
-      <img src="img/2.png" alt="Screenshot: Confirmation interface of the generated card" width="300">
+      <img src="img/2.png" alt="Screenshot: Confirmation interface of the generated card" width="300"><br>
+      <em>Review the flashcard: Check the AI-generated definition and mnemonic. Request a new generation or edit manually if needed.</em>
    </p>
 
 3. Language Confirmation
 
    <p align="center">
-      <img src="img/3.png" alt="Screenshot: Language selection for the word" width="300">
+      <img src="img/3.png" alt="Screenshot: Language selection for the word" width="300"><br>
+      <em>Choose the deck: Select the Anki deck to add your new flashcard to, and you’re done! Also, define the language of the selected word if the automatic detection fails.</em>
    </p>
 
 4. Reviewing in Anki
 
    <p align="center">
       <img src="img/4.png" alt="Screenshot: Anki review interface" width="300">
-      <img src="img/5.png" alt="Screenshot: Additional feature" width="300">
+      <img src="img/5.png" alt="Screenshot: Additional feature" width="300"><br>
+      <em>Review in Anki: After creating your flashcards, review them in Anki and use the pronunciation guide as many times as you need.</em>
    </p>
 
 ## Impact and Benefits of This Method
