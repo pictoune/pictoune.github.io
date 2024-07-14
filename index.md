@@ -23,19 +23,16 @@ AnkiLingoFlash is a browser extension designed to make flashcard creation as eff
 ## Step-by-Step User Experience
 
 1. Word Selection
-   [Screenshot: Selecting a word on a web page and the context menu]
+   ![Screenshot: Selecting a word on a web page and the context menu](img/1.png)
 
 2. Card Generation
-   [Screenshot: Confirmation interface of the generated card]
+   ![Screenshot: Confirmation interface of the generated card](img/2.png)
 
 3. Language Confirmation
-   [Screenshot: Language selection for the word]
+   ![Screenshot: Language selection for the word](img/3.png)
 
-4. Adding to Anki
-   [Screenshot: Confirmation of addition to an Anki deck]
-
-5. Reviewing in Anki
-   [Screenshot: Anki review interface]
+4. Reviewing in Anki
+   ![Screenshot: Anki review interface](img/4.png) ![Screenshot: Additional feature](img/5.png)
 
 ## Impact and Benefits of This Method
 
