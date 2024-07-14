@@ -16,7 +16,7 @@ Fortunately, there's a scientifically proven technique that can make learning mo
 
 To implement spaced repetition effectively, we turn to Anki, a free flashcard application that optimizes the learning process by automatically scheduling reviews based on your performance. Anki ensures that you review your flashcards just at the right time to maximize retention.
 
-## AnkiLingoFlash: a Web Extension for Automatically Creating Clever Flashcards 
+### AnkiLingoFlash: a Web Extension for Automatically Creating Clever Flashcards 
 
 While Anki is powerful, creating flashcards manually can still be tedious. This is where AnkiLingoFlash comes in. AnkiLingoFlash is a browser extension designed to make flashcard creation effortless and quick. It uses artificial intelligence to instantly generate quality cards from any word or phrase you select on a web page.
 
