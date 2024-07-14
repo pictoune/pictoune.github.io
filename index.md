@@ -60,8 +60,11 @@ AnkiLingoFlash is a browser extension designed to make flashcard creation as eff
 
 ## Currently Supported Languages
 
-English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, Danish 🇩🇰, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹
+English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹 and Danish 🇩🇰
+
+## How much does it cost?
 
 AnkiLingoFlash offers a limited number of free flashcards to get started. After that, you can use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards).
+
 
 Whether you're a beginner or aiming for fluency, this method will transform how you learn languages. Start today and watch your language skills take off! 🚀📚🌍
