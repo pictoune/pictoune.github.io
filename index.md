@@ -6,7 +6,7 @@ Learning a new language is a significant challenge, especially when it comes to 
 
 [Illustration: A frustrated person in front of a pile of language books and vocabulary flashcards]
 
-## 2. The Secret Sauce 🍯: Spaced Repetition and AI-Powered Flashcards 
+## 2. The Secret Sauce 🍯: Spaced Repetition and AI-generated Flashcards 
 
 ### 2.1. Spaced Repetition: A Scientifically Proven Solution to Learn 🧬
 
