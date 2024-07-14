@@ -22,10 +22,10 @@ While Anki is powerful, creating flashcards manually can still be tedious. This 
 
 Whether you're a beginner or aiming for fluency, this method will transform how you learn languages. Start today and watch your language skills take off! 🚀📚🌍
 
-#### 2.3.3 Which languages are currently supported?
+#### 2.3.2 Which languages are currently supported?
 AnkiLingoFlash supports a variety of languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
 
-
+#### 2.3.3 How much does it cost?
 AnkiLingoFlash offers a limited number of free flashcards to get started. After that, you can use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards).
 
 
