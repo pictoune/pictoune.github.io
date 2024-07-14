@@ -90,7 +90,8 @@ Here’s how AnkiLingoFlash works in practice:
    </p>
 
 ### 3.4. Reviewing in Anki 🔄
-   <div style="display: flex; justify-content: center;">
+
+<div style="display: flex; justify-content: center;">
    <img src="img/4.png" alt="Screenshot: Anki review interface" width="400" style="margin-right: 10px; border: none;">
    <img src="img/5.png" alt="Screenshot: Additional feature" width="400" style="border: none;">
 </div>
