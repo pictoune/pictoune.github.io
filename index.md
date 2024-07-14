@@ -28,7 +28,7 @@ Typically, the level we strive for is being able to communicate fluently and cle
 
 #### 2.3.2 Which languages are currently supported? 🌐
 
-AnkiLingoFlash supports the following languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
+AnkiLingoFlash supports the following languages: English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
 
 #### 2.3.3 How much does it cost? 💵
 
