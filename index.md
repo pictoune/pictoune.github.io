@@ -30,16 +30,25 @@ Whether you're a beginner or aiming for fluency, this method will transform how 
 
 AnkiLingoFlash supports a variety of languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
 
-#### 2.3.3 How much does it cost?
+### 2.3.3 How much does it cost?
 
-AnkiLingoFlash offers a limited number of free flashcards to get started. After that, you can use your own OpenAI API key, which is very cost-effective. Here’s how you can get started with an API key:
+AnkiLingoFlash offers a limited number of free flashcards to get started. After that, you can use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards). Follow these steps to create and use an OpenAI API key:
 
-1. **Create an OpenAI Account**: Go to the [OpenAI website](https://www.openai.com) and sign up for an account.
-2. **Generate an API Key**: Once you have an account, navigate to the API section and generate a new API key.
-3. **Add Funds to Your Account**: OpenAI requires a minimum of $5 to activate the API. You can add funds using a credit card or other payment methods provided on the site.
-4. **Use the API Key in AnkiLingoFlash**: Copy your API key and paste it into the settings of the AnkiLingoFlash extension.
+1. **Create an OpenAI Account**: Go to the [ChatGPT website](https://chatgpt.com/auth/login) and sign up for an account.
+2. **Generate an API Key**: 
+    - Once you have an account, navigate to the [API keys section](https://platform.openai.com/api-keys).
+    - Click on "Create new secret key".
+    - Choose a name for your key, such as "AnkiLingoFlash".
+    - Click on "Create secret key".
+    - Note down the generated key, as you will need to enter it into the settings of the AnkiLingoFlash extension.
+3. **Add Funds to Your Account**:
+    - In the OpenAI dashboard, go to the "Settings" menu.
+    - Navigate to the "Billing" section.
+    - Add a minimum of $5 USD (or the equivalent in your local currency) to your account using a credit card or other payment methods provided on the site.
+4. **Use the API Key in AnkiLingoFlash**: 
+    - Copy your API key and paste it into the settings of the AnkiLingoFlash extension.
 
-A dollar can generate thousands of flashcards, making it an affordable option for enhancing your language learning experience.
+This straightforward process ensures you have enough credits to generate thousands of flashcards efficiently and affordably.
 
 ## 3. How do we use AnkiLingoFlash?
 
