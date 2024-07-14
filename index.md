@@ -13,7 +13,7 @@ Learning a new language is a significant challenge, especially when it comes to 
 Fortunately, there's a scientifically proven technique that can make learning more efficient: spaced repetition. This method involves reviewing information at increasing time intervals, leveraging how our brain forms and consolidates long-term memories.
 
 <p align="center">
-      <img src="img/curve.png" width="500"><br>
+      <img src="img/curve2.png" width="500"><br>
       <em>...</em>
    </p>
 
