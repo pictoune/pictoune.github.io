@@ -6,65 +6,68 @@ Learning a new language is a significant challenge, especially when it comes to 
 
 [Illustration: A frustrated person in front of a pile of language books and vocabulary flashcards]
 
-## Spaced Repetition: A Scientifically Proven Solution
+## The Solution: Spaced Repetition
 
-Spaced repetition is a learning technique based on reviewing information at increasing time intervals. This method leverages how our brain forms and consolidates long-term memories.
+Fortunately, there's a scientifically proven technique that can make learning more efficient: spaced repetition. This method involves reviewing information at increasing time intervals, leveraging how our brain forms and consolidates long-term memories.
 
 [Diagram: Forgetting curve and the impact of spaced repetition on memorization]
 
-## Anki: The Fundamental Tool for Spaced Repetition
+## Leveraging Technology: Anki
 
-Anki is a free flashcard application that implements spaced repetition. It automatically schedules reviews based on your performance, thus optimizing your learning process.
+To implement spaced repetition effectively, we turn to Anki, a free flashcard application that optimizes the learning process by automatically scheduling reviews based on your performance. Anki ensures that you review your flashcards just at the right time to maximize retention.
 
-## AnkiLingoFlash: AI-Powered Optimization
+## Enhancing Anki with AI: AnkiLingoFlash
 
-AnkiLingoFlash is a browser extension designed to make flashcard creation as effortless and quick as possible. It uses artificial intelligence to instantly generate quality cards from any word or phrase you select on a web page.
+While Anki is powerful, creating flashcards manually can still be tedious. This is where AnkiLingoFlash comes in. AnkiLingoFlash is a browser extension designed to make flashcard creation effortless and quick. It uses artificial intelligence to instantly generate quality cards from any word or phrase you select on a web page.
 
 ## Step-by-Step User Experience
+
+Here’s how AnkiLingoFlash works in practice:
 
 1. Word Selection
 
    <p align="center">
-      <img src="img/1.png" alt="Screenshot: Selecting a word on a web page and the context menu" width="300"><br>
+      <img src="img/1.png" alt="Screenshot: Selecting a word on a web page and the context menu" width="500"><br>
       <em>Select text and right-click: Highlight a word or phrase, right-click, and choose the option to generate a flashcard.</em>
    </p>
 
 2. Card Generation
 
    <p align="center">
-      <img src="img/2.png" alt="Screenshot: Confirmation interface of the generated card" width="300"><br>
+      <img src="img/2.png" alt="Screenshot: Confirmation interface of the generated card" width="500"><br>
       <em>Review the flashcard: Check the AI-generated definition and mnemonic. Request a new generation or edit manually if needed.</em>
    </p>
 
 3. Language Confirmation
 
    <p align="center">
-      <img src="img/3.png" alt="Screenshot: Language selection for the word" width="300"><br>
+      <img src="img/3.png" alt="Screenshot: Language selection for the word" width="500"><br>
       <em>Choose the deck: Select the Anki deck to add your new flashcard to, and you’re done! Also, define the language of the selected word if the automatic detection fails.</em>
    </p>
 
 4. Reviewing in Anki
 
    <p align="center">
-      <img src="img/4.png" alt="Screenshot: Anki review interface" width="300">
-      <img src="img/5.png" alt="Screenshot: Additional feature" width="300"><br>
+      <img src="img/4.png" alt="Screenshot: Anki review interface" width="500">
+      <img src="img/5.png" alt="Screenshot: Additional feature" width="500"><br>
       <em>Review in Anki: After creating your flashcards, review them in Anki and use the pronunciation guide as many times as you need.</em>
    </p>
 
 ## Impact and Benefits of This Method
 
-- Contextual Learning: Capture words as you encounter them in real texts
-- Significant Time Savings: No more manual dictionary searches or card creation
-- Enhanced Memorization: AI-generated mnemonics boost your memory
-- Increased Motivation: Quick results keep you engaged in learning
+The combined power of Anki and AnkiLingoFlash offers numerous benefits:
+
+- **Contextual Learning:** Capture words as you encounter them in real texts.
+- **Significant Time Savings:** No more manual dictionary searches or card creation.
+- **Enhanced Memorization:** AI-generated mnemonics boost your memory.
+- **Increased Motivation:** Quick results keep you engaged in learning.
 
 ## Currently Supported Languages
 
-English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹 and Danish 🇩🇰
+AnkiLingoFlash supports a variety of languages, including English 🇬🇧, French 🇫🇷, Spanish 🇪🇸, German 🇩🇪, Italian 🇮🇹, Portuguese 🇵🇹, and Danish 🇩🇰.
 
-## How much does it cost?
+## How Much Does It Cost?
 
 AnkiLingoFlash offers a limited number of free flashcards to get started. After that, you can use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards).
-
 
 Whether you're a beginner or aiming for fluency, this method will transform how you learn languages. Start today and watch your language skills take off! 🚀📚🌍
