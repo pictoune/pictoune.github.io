@@ -4,18 +4,22 @@
 1. [Introduction: The Importance of Language Learning](#-introduction-the-importance-of-language-learning)
 2. [The Challenge of Vocabulary Acquisition](#-the-challenge-of-vocabulary-acquisition)
 3. [The Secret Sauce: Spaced Repetition and AI-generated Flashcards](#-the-secret-sauce-spaced-repetition-and-ai-generated-flashcards)
-   1. [Understanding the Review Process](#-understanding-the-review-process)
-   2. [Anki: A Flashcard Program that Leverages Spaced Repetition](#️-anki-a-flashcard-program-that-leverages-spaced-repetition)
-   3. [AnkiLingoFlash: A Tool to Automate the Flashcard Creation Process](#-ankilingoflash-a-tool-to-automate-the-flashcard-creation-process)
-      1. [Why Focus on Vocabulary?](#-why-focus-on-vocabulary)
-      2. [What You Can Achieve with the combination of Anki and AnkiLingoFlash](#-what-you-can-achieve-with-the-combination-of-anki-and-ankilingoflash)
-      3. [How AnkiLingoFlash Works](#-how-ankilingoflash-works)
-      4. [Supported Languages](#-supported-languages)
-      5. [Pricing](#-pricing)
+   1. [The Importance of Vocabulary](#-the-importance-of-vocabulary)
+   2. [Understanding the Review Process](#-understanding-the-review-process)
+   3. [Anki: A Flashcard Program that Leverages Spaced Repetition](#️-anki-a-flashcard-program-that-leverages-spaced-repetition)
+   4. [AnkiLingoFlash: A Tool to Automate the Flashcard Creation Process](#-ankilingoflash-a-tool-to-automate-the-flashcard-creation-process)
+      1. [Achievements with Anki and AnkiLingoFlash](#-achievements-with-anki-and-ankilingoflash)
+      2. [AnkiLingoFlash Workflow](#-ankilingoflash-workflow)
+      3. [Supported Languages](#-supported-languages)
+      4. [Pricing](#-pricing)
 
 ## 🌍 Introduction: The Importance of Language Learning
 
 Learning a new language is more than just a hobby—it's a gateway to countless opportunities. It can significantly boost your career prospects, allowing you to communicate with a global audience and access international job markets. Beyond professional benefits, it enriches your personal life, enabling deeper connections with people from diverse cultures and broadening your worldview.
+
+## 🎯 The Importance of Vocabulary
+
+While language learning encompasses various aspects such as grammar, pronunciation, and cultural understanding, vocabulary forms the bedrock of communication. Without words, even the most perfect grammar is rendered useless. Research shows that mastering the 3000-5000 most frequent word families in a language allows you to understand 95-98% of most ordinary texts. This insight allows us to focus our efforts efficiently.
 
 ## 🧠 The Challenge of Vocabulary Acquisition
 
@@ -50,15 +54,11 @@ When you answer a card correctly, Anki extends the interval before your next rev
 
 ### 🤖 AnkiLingoFlash: A Tool to Automate the Flashcard Creation Process
 
-#### 🎯 Why Focus on Vocabulary?
-
-While language learning encompasses various aspects such as grammar, pronunciation, and cultural understanding, vocabulary forms the bedrock of communication. Without words, even the most perfect grammar is rendered useless. Research shows that mastering the 3000-5000 most frequent word families in a language allows you to understand 95-98% of most ordinary texts. This insight allows us to focus our efforts efficiently.
-
-#### 🏆 What You Can Achieve with the combination of Anki and AnkiLingoFlash
+#### 🏆 Achievements with Anki and AnkiLingoFlash
 
 For instance, reaching a B2 level—considered fluent for most practical purposes—typically requires knowledge of about 4,000 words. With AnkiLingoFlash, you can achieve this milestone in less than 9 months, dedicating just 20 minutes a day to learning 15 new words and reviewing existing ones. This focused approach helps you build a strong foundation rapidly, setting the stage for confident communication in your target language.
 
-#### 🛠 How AnkiLingoFlash Works
+#### 🛠 AnkiLingoFlash Workflow
 
 Flashcards are simple yet powerful tools: cards with a question on one side and the answer on the other. They're effective because they promote active recall, a learning technique that strengthens memory pathways in your brain. However, creating these flashcards manually can be a time-consuming and often tedious process.
 
