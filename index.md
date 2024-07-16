@@ -1,4 +1,4 @@
-# 🚀 Master a New Language in Months, Not Years: The AI-Powered Method for Quickly Building a Strong Vocabulary Foundation
+# 🚀 Master a New Language in Months, Not Years: Use AnkiLingoFlash for Quickly Building a Strong Vocabulary Foundation
 
 ## 📚 Table of Contents
 1. [Introduction: The Benefits of Language Learning](#-introduction-the-benefits-of-language-learning)
