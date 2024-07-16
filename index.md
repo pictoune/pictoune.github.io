@@ -82,7 +82,7 @@ Here's how AnkiLingoFlash works in practice:
    <em>Review the flashcard: Check the AI-generated definition and mnemonic. Request a new generation or edit manually if needed.</em>
 </p>
 
-##### 🌐 Language Confirmation
+##### ✅ Language Confirmation
 
 <p align="center">
    <img src="img/3.png" alt="Screenshot: Language selection for the word" width="500"><br>
@@ -106,7 +106,7 @@ These aren't just simple word-definition pairs. Each flashcard includes:
 
 By automating the card creation process, AnkiLingoFlash allows you to focus on what truly matters—learning and retaining new vocabulary. It transforms your everyday browsing into an effortless language learning opportunity, making the journey to fluency not just faster, but also more enjoyable and integrated into your daily life.
 
-#### 🗣 Supported Languages
+#### 🌐 Supported Languages
 
 AnkiLingoFlash supports the following languages:
 - English
