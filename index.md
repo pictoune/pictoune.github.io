@@ -1,25 +1,46 @@
-# Master Languages at Record Speed with AnkiLingoFlash ⚡️
+# Learn Languages Faster with AnkiLingoFlash ⚡️
+
+## Table of Contents
+1. [The Challenge of Vocabulary Acquisition in Foreign Languages](#1-the-challenge-of-vocabulary-acquisition-in-foreign-languages-)
+2. [The Secret Sauce: Spaced Repetition and AI-generated Flashcards](#2-the-secret-sauce--spaced-repetition-and-ai-generated-flashcards)
+   1. [Understanding the Review Process](#21-understanding-the-review-process-)
+   2. [Anki: a Flashcard Program that Leverages the Spaced Repetition Technique](#22-anki-a-flashcard-program-that-leverages-the-spaced-repetition-technique-)
+   3. [AnkiLingoFlash: a Web Extension for Automatically Creating Clever Flashcards](#23-ankilingoflash-a-web-extension-for-automatically-creating-clever-flashcards-)
+      1. [Why should you adopt AnkiLingoFlash?](#231-why-should-you-adopt-ankilingoflash-)
+      2. [Which languages are currently supported?](#232-which-languages-are-currently-supported-)
+      3. [How much does it cost?](#233-how-much-does-it-cost-)
+3. [How do we use AnkiLingoFlash?](#3-how-do-we-use-ankilingoflash-️)
+   1. [Word Selection](#31-word-selection-)
+   2. [Card Generation](#32-card-generation-)
+   3. [Language Confirmation](#33-language-confirmation-)
+   4. [Reviewing in Anki](#34-reviewing-in-anki-)
 
 ## 1. The Challenge of Vocabulary Acquisition in Foreign Languages 🌎
 
-Learning a new language is a significant challenge, especially when it comes to acquiring and retaining a large vocabulary. Traditional methods are often time-consuming and ineffective in the long run.
+Learning a new language's vocabulary is a formidable challenge, primarily due to the shortcomings of traditional learning methods. These approaches often adopt a one-size-fits-all strategy, failing to address the unique needs, interests, and learning paces of individual learners.
 
-[Illustration: A frustrated person in front of a pile of language books and vocabulary flashcards]
+Personalization is crucial yet often overlooked. While a doctor may need to prioritize medical terminology, a tour guide requires travel-related vocabulary. Standard learning materials rarely account for these specific needs, resulting in inefficient learning and diminished motivation.
+
+Furthermore, most conventional learning methods neglect to harness powerful cognitive techniques that can dramatically accelerate vocabulary acquisition and retention. Unlike neuromarketing experts who skillfully exploit memory-enhancing strategies, language learning approaches often miss opportunities to make new words truly stick in learners' minds.
+
+These challenges call for an innovative approach to vocabulary learning - one that personalizes content, adapts to individual learning speeds, and leverages effective memory techniques. The solution lies in combining time-tested learning principles with modern technology, as we'll explore in the following sections.
 
 ## 2. The Secret Sauce 🍯: Spaced Repetition and AI-generated Flashcards 
 
 ### 2.1. Understanding the Review Process 📖
 
-The review process plays a critical role in consolidating knowledge in long-term memory. The more we review a piece of information, the more deeply it becomes ingrained in our memory. Consequently, for optimal learning — in terms of efficient use of time — it is essential that the repetitions are increasingly spaced out over time. This technique is based on the principle of spaced repetition. This method not only strengthens the memories but also makes them more resistant to forgetting.
+The review process plays a critical role in consolidating knowledge in long-term memory. The more we review a piece of information, the more deeply it becomes ingrained in our memory. 
+
+<p align="center">
+   <img src="img/curve2.png" width="500"><br>
+   <em>With each review session, the retention period for the memorized information is extended.</em>
+</p>
+
+Consequently, for optimal learning — in terms of efficient use of time — it is essential that the repetitions are increasingly spaced out over time. 
 
 However, it is important to note that the interval between reviews can vary from person to person and from concept to concept. Factors such as the complexity of the material and individual performance during reviews play a significant role in this variation. This is where Anki steps in with an algorithmic, adaptive approach.
 
-<p align="center">
-      <img src="img/curve2.png" width="500"><br>
-      <em>With each review session, the retention period for the memorized information is extended, allowing for longer intervals between subsequent repetitions.</em>
-   </p>
-
-### 2.2. Anki: a Flashcard Program that Leverages the Spaced Repetition Technique 📇
+### 2.2. Anki: a Flashcard Program that Leverages the Spaced Repetition Technique 💡
 
 Anki is a powerful tool that leverages the theory of spaced repetition to optimize our learning. Using sophisticated algorithms, Anki calculates the optimal date for reviewing each card based on your past performance. This personalized approach allows for spaced reviews that maximize retention while minimizing the time spent reviewing.
 
@@ -29,9 +50,25 @@ When you answer a card correctly, Anki extends the interval before your next rev
 
 #### 2.3.1 Why should you adopt AnkiLingoFlash? 🌟
 
-While Anki is powerful, creating flashcards manually can still be tedious. This is where AnkiLingoFlash comes in. AnkiLingoFlash is a browser extension designed to make flashcard creation effortless and quick. It uses artificial intelligence to instantly generate quality cards from any word or phrase you select on a web page.
+Learning a new language is more than just a hobby—it's a gateway to countless opportunities. It can significantly boost your career prospects, allowing you to communicate with a global audience and access international job markets. Beyond professional benefits, it enriches your personal life, enabling deeper connections with people from diverse cultures and broadening your worldview.
 
-Typically, the level we strive for is being able to communicate fluently and clearly in any situation, without necessarily being an expert in the language. For example, to reach the B2 level, which is considered fluent, you need to know around 4,000 words. With AnkiLingoFlash, you can achieve this level in under 9 months by dedicating just 20 minutes a day to learning 15 new cards and reviewing existing ones. This means you can rapidly build a strong foundation in your target language, and with some additional practice, you'll be speaking confidently in no time! 🚀
+It's crucial to understand that language fluency isn't about memorizing an entire dictionary. Research shows that mastering the 3000-5000 most frequent word families in a language allows you to understand 95-98% of most ordinary texts. This insight allows us to focus our efforts efficiently.
+
+For instance, reaching a B2 level—considered fluent for most practical purposes—typically requires knowledge of about 4,000 words. With AnkiLingoFlash, you can achieve this milestone in less than 9 months, dedicating just 20 minutes a day to learning 15 new words and reviewing existing ones. This focused approach helps you build a strong foundation rapidly, setting the stage for confident communication in your target language.
+
+While language learning encompasses various aspects such as grammar, pronunciation, and cultural understanding, vocabulary forms the bedrock of communication. Without words, even the most perfect grammar is rendered useless. This is where flashcards come into play.
+
+Flashcards are simple yet powerful tools: cards with a question on one side and the answer on the other. They're effective because they promote active recall, a learning technique that strengthens memory pathways in your brain. However, creating these flashcards manually can be a time-consuming and often tedious process.
+
+While Anki provides a powerful platform for using flashcards, the process of creating them can still be daunting. This is where AnkiLingoFlash steps in to revolutionize your learning process. As a browser extension, it seamlessly integrates with your web browsing experience. Simply select any word or phrase you encounter online, and AnkiLingoFlash leverages artificial intelligence to instantly generate high-quality flashcards. 
+
+These aren't just simple word-definition pairs. Each flashcard includes:
+- The word in context
+- A clear, concise definition
+- A mnemonic device to aid memory
+- Example sentences to reinforce usage
+
+By automating the card creation process, AnkiLingoFlash allows you to focus on what truly matters—learning and retaining new vocabulary. It transforms your everyday browsing into an effortless language learning opportunity, making the journey to fluency not just faster, but also more enjoyable and integrated into your daily life.
 
 #### 2.3.2 Which languages are currently supported? 🌐
 
@@ -66,28 +103,28 @@ This straightforward process ensures you have enough credits to generate thousan
 
 ## 3. How do we use AnkiLingoFlash? 🛠️
 
-Here’s how AnkiLingoFlash works in practice:
+Here's how AnkiLingoFlash works in practice:
 
 ### 3.1. Word Selection 🔍
 
-   <p align="center">
-      <img src="img/1.png" alt="Screenshot: Selecting a word on a web page and the context menu" width="500"><br>
-      <em>Select text and right-click: Highlight a word or phrase, right-click, and choose the option to generate a flashcard.</em>
-   </p>
+<p align="center">
+   <img src="img/1.png" alt="Screenshot: Selecting a word on a web page and the context menu" width="500"><br>
+   <em>Select text and right-click: Highlight a word or phrase, right-click, and choose the option to generate a flashcard.</em>
+</p>
 
 ### 3.2. Card Generation 📝
 
-   <p align="center">
-      <img src="img/2.png" alt="Screenshot: Confirmation interface of the generated card" width="500"><br>
-      <em>Review the flashcard: Check the AI-generated definition and mnemonic. Request a new generation or edit manually if needed.</em>
-   </p>
+<p align="center">
+   <img src="img/2.png" alt="Screenshot: Confirmation interface of the generated card" width="500"><br>
+   <em>Review the flashcard: Check the AI-generated definition and mnemonic. Request a new generation or edit manually if needed.</em>
+</p>
 
 ### 3.3. Language Confirmation ✅
 
-   <p align="center">
-      <img src="img/3.png" alt="Screenshot: Language selection for the word" width="500"><br>
-      <em>Choose the deck: Select the Anki deck to add your new flashcard to, and you’re done! Also, define the language of the selected word if the automatic detection fails.</em>
-   </p>
+<p align="center">
+   <img src="img/3.png" alt="Screenshot: Language selection for the word" width="500"><br>
+   <em>Choose the deck: Select the Anki deck to add your new flashcard to, and you're done! Also, define the language of the selected word if the automatic detection fails.</em>
+</p>
 
 ### 3.4. Reviewing in Anki 📚
 
