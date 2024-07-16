@@ -25,13 +25,13 @@ While language learning encompasses various aspects such as grammar, pronunciati
 
 ### 🚣 The Challenge of Vocabulary Acquisition
 
-Learning a new language's vocabulary is a formidable challenge, primarily due to the shortcomings of traditional learning methods. These approaches often adopt a one-size-fits-all strategy, failing to address the unique needs, interests, and learning paces of individual learners.
+Learning a new language’s vocabulary is a significant challenge, primarily due to the shortcomings of traditional learning methods. These approaches often adopt a one-size-fits-all strategy, failing to address the unique needs, interests, and learning paces of individual learners.
 
 Personalization is crucial yet often overlooked. While a doctor may need to prioritize medical terminology, a tour guide requires travel-related vocabulary. Standard learning materials rarely account for these specific needs, resulting in inefficient learning and diminished motivation.
 
-Furthermore, most conventional learning methods neglect to harness powerful cognitive techniques that can dramatically accelerate vocabulary acquisition and retention. Unlike neuromarketing experts who skillfully exploit memory-enhancing strategies, language learning approaches often miss opportunities to make new words truly stick in learners' minds.
+Furthermore, most conventional learning methods neglect to harness powerful cognitive techniques that can dramatically accelerate vocabulary acquisition and retention. Memory-enhancing strategies should not be the exclusive domain of neuromarketing experts; language learning approaches can and should incorporate these hacks to help new words truly stick in learners’ minds.
 
-These challenges call for an innovative approach to vocabulary learning - one that personalizes content, adapts to individual learning speeds, and leverages effective memory techniques. The solution lies in combining time-tested learning principles with modern technology, as we'll explore in the following sections.
+These challenges call for an innovative approach to vocabulary learning - one that personalizes content, adapts to individual learning speeds, and leverages effective memory techniques. The solution lies in combining time-tested learning principles with modern technology, as we’ll explore in the following sections.
 
 ## 🍯 The Secret Sauce: Spaced Repetition and AI-generated Flashcards
 
