@@ -99,10 +99,9 @@ Here's how AnkiLingoFlash works in practice:
 <p align="center"><em>Review in Anki: After creating your flashcards, review them in Anki and use the pronunciation guide as many times as you need.</em></p>
 
 These aren't just simple word-definition pairs. Each flashcard includes:
-- The word in context
+- The selected terms
 - A clear, concise definition
 - A mnemonic device to aid memory
-- Example sentences to reinforce usage
 
 By automating the card creation process, AnkiLingoFlash allows you to focus on what truly matters—learning and retaining new vocabulary. It transforms your everyday browsing into an effortless language learning opportunity, making the journey to fluency not just faster, but also more enjoyable and integrated into your daily life.
 
