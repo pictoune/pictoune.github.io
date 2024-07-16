@@ -11,6 +11,7 @@
       2. [AnkiLingoFlash Workflow](#-ankilingoflash-workflow)
       3. [Supported Languages](#-supported-languages)
       4. [Pricing](#-pricing)
+      5. [Installation](#-installation)
 
 ## 🌍 Introduction: The Benefits of Language Learning
 
@@ -18,11 +19,11 @@ Learning a new language is more than just a hobby—it's a gateway to countless 
 
 ## 🎯 The Importance and Challenge of Vocabulary
 
-### The Importance of Vocabulary
+### 💡 The Importance of Vocabulary
 
 While language learning encompasses various aspects such as grammar, pronunciation, and cultural understanding, vocabulary forms the bedrock of communication. Without words, even the most perfect grammar is rendered useless. Research shows that mastering the 3000-5000 most frequent word families in a language allows you to understand 95-98% of most ordinary texts. This insight allows us to focus our efforts efficiently.
 
-### The Challenge of Vocabulary Acquisition
+### 🚣 The Challenge of Vocabulary Acquisition
 
 Learning a new language's vocabulary is a formidable challenge, primarily due to the shortcomings of traditional learning methods. These approaches often adopt a one-size-fits-all strategy, failing to address the unique needs, interests, and learning paces of individual learners.
 
@@ -135,3 +136,5 @@ AnkiLingoFlash offers a limited number of free flashcards to get started. After 
     - Copy your API key and paste it into the settings of the AnkiLingoFlash extension.
 
 This straightforward process ensures you have enough credits to generate thousands of flashcards efficiently and affordably.
+
+#### ⚙️ Installation
