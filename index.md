@@ -112,7 +112,7 @@ AnkiLingoFlash supports the following languages:
 - Spanish
 - German
 - Italian
-- Portuguese
+- Portuguese (Portugal)
 - Danish
 
 #### 💰 Pricing
