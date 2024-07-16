@@ -1,14 +1,19 @@
 # 🚀 Master a New Language in Months, Not Years: The AI-Powered Method Transforming Language Learning
 
 ## 📚 Table of Contents
-1. [Introduction: The Power of Language Learning](#introduction-the-power-of-language-learning)
-2. [The Challenge of Vocabulary Acquisition](#the-challenge-of-vocabulary-acquisition)
-3. [The Secret Sauce: Spaced Repetition and AI-generated Flashcards](#the-secret-sauce-spaced-repetition-and-ai-generated-flashcards)
-   1. [Understanding the Review Process](#understanding-the-review-process)
-   2. [Anki: A Flashcard Program that Leverages Spaced Repetition](#anki-a-flashcard-program-that-leverages-spaced-repetition)
-   3. [AnkiLingoFlash: Revolutionizing Flashcard Creation](#ankilingoflash-revolutionizing-flashcard-creation)
+1. [Introduction: The Importance of Language Learning](#-introduction-the-importance-of-language-learning)
+2. [The Challenge of Vocabulary Acquisition](#-the-challenge-of-vocabulary-acquisition)
+3. [The Secret Sauce: Spaced Repetition and AI-generated Flashcards](#-the-secret-sauce-spaced-repetition-and-ai-generated-flashcards)
+   1. [Understanding the Review Process](#-understanding-the-review-process)
+   2. [Anki: A Flashcard Program that Leverages Spaced Repetition](#️-anki-a-flashcard-program-that-leverages-spaced-repetition)
+   3. [AnkiLingoFlash: A Tool to Automate the Flashcard Creation Process](#-ankilingoflash-a-tool-to-automate-the-flashcard-creation-process)
+      1. [Why Focus on Vocabulary?](#-why-focus-on-vocabulary)
+      2. [What You Can Achieve with the combination of Anki and AnkiLingoFlash](#-what-you-can-achieve-with-the-combination-of-anki-and-ankilingoflash)
+      3. [How AnkiLingoFlash Works](#-how-ankilingoflash-works)
+      4. [Supported Languages](#-supported-languages)
+      5. [Pricing](#-pricing)
 
-## 🌍 Introduction: The Power of Language Learning
+## 🌍 Introduction: The Importance of Language Learning
 
 Learning a new language is more than just a hobby—it's a gateway to countless opportunities. It can significantly boost your career prospects, allowing you to communicate with a global audience and access international job markets. Beyond professional benefits, it enriches your personal life, enabling deeper connections with people from diverse cultures and broadening your worldview.
 
@@ -24,7 +29,7 @@ These challenges call for an innovative approach to vocabulary learning - one th
 
 ## 🍯 The Secret Sauce: Spaced Repetition and AI-generated Flashcards
 
-### 📊 Understanding the Review Process
+### 📈 Understanding the Review Process
 
 The review process plays a critical role in consolidating knowledge in long-term memory. The more we review a piece of information, the more deeply it becomes ingrained in our memory. 
 
@@ -49,7 +54,7 @@ When you answer a card correctly, Anki extends the interval before your next rev
 
 While language learning encompasses various aspects such as grammar, pronunciation, and cultural understanding, vocabulary forms the bedrock of communication. Without words, even the most perfect grammar is rendered useless. Research shows that mastering the 3000-5000 most frequent word families in a language allows you to understand 95-98% of most ordinary texts. This insight allows us to focus our efforts efficiently.
 
-#### 🏆 What You Can Achieve with AnkiLingoFlash
+#### 🏆 What You Can Achieve with the combination of Anki and AnkiLingoFlash
 
 For instance, reaching a B2 level—considered fluent for most practical purposes—typically requires knowledge of about 4,000 words. With AnkiLingoFlash, you can achieve this milestone in less than 9 months, dedicating just 20 minutes a day to learning 15 new words and reviewing existing ones. This focused approach helps you build a strong foundation rapidly, setting the stage for confident communication in your target language.
 
