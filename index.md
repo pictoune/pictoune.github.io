@@ -2,7 +2,7 @@
 
 ## 📚 Table of Contents
 1. [Introduction: The Benefits of Language Learning](#-introduction-the-benefits-of-language-learning)
-2. [The Importance and Challenge of Vocabulary](#-the-importance-and-challenge-of-vocabulary)
+2. [The Importance and Challenge of Vocabulary Acquisition](#-the-importance-and-challenge-of-vocabulary-acquisiton)
 3. [The Secret Sauce: Spaced Repetition and AI-generated Flashcards](#-the-secret-sauce-spaced-repetition-and-ai-generated-flashcards)
    1. [Understanding the Review Process](#-understanding-the-review-process)
    2. [Anki: A Flashcard Program that Leverages Spaced Repetition](#️-anki-a-flashcard-program-that-leverages-spaced-repetition)
@@ -17,9 +17,9 @@
 
 Learning a new language is more than just a hobby—it's a gateway to countless opportunities. It can significantly boost your career prospects, allowing you to communicate with a global audience and access international job markets. Beyond professional benefits, it enriches your personal life, enabling deeper connections with people from diverse cultures and broadening your worldview.
 
-## 🎯 The Importance and Challenge of Vocabulary
+## 🎯 The Importance and Challenge of Vocabulary Acquisition
 
-### 💡 The Importance of Vocabulary
+### 💡 The Importance of Vocabulary Acquisition
 
 While language learning encompasses various aspects such as grammar, pronunciation, and cultural understanding, vocabulary forms the bedrock of communication. Without words, even the most perfect grammar is rendered useless. Research shows that mastering the 3000-5000 most frequent word families in a language allows you to understand 95-98% of most ordinary texts. This insight allows us to focus our efforts efficiently.
 
