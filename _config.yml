@@ -1,2 +1,41 @@
-name: AnkiLingoFlash
-title: null
+title: AnkiLingoFlash
+description: Master Languages Faster with AI-Powered Flashcards
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: just-the-docs
+
+# Just the Docs settings
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Install Now":
+    - "/getting-started/installation"
+
+# Footer content
+footer_content: "© 2024 AnkiLingoFlash. All rights reserved."
+
+# Collections for organizing content
+collections:
+  getting-started:
+    output: true
+    permalink: /:collection/:path/
+
+# Default front matter for pages
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: getting-started
+    values:
+      layout: page
