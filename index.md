@@ -17,7 +17,7 @@ AnkiLingoFlash helps you learn vocabulary effortlessly as you browse the web.
 > 3. Highlight words you want to learn
 > 4. AnkiLingoFlash generates AI-powered flashcards instantly!
 
-[Install Now]({% link _getting-started/installation.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Install Now]({% link installation.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Features
 

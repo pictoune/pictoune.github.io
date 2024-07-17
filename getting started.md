@@ -13,10 +13,10 @@ Welcome to AnkiLingoFlash! This guide will help you set up and start using our A
 
 Follow these steps to begin your journey with AnkiLingoFlash:
 
-1. [Installation]({% link _getting-started/installation.md %})
+1. [Installation]({% link installation.md %})
    Learn how to install the AnkiLingoFlash browser extension on your preferred browser.
 
-2. [Quick Tutorial]({% link _getting-started/quick-tutorial.md %})
+2. [Quick Tutorial]({% link quick-tutorial.md %})
    Get a quick overview of how to use AnkiLingoFlash and create your first flashcards.
 
 ## What's Next?
@@ -29,8 +29,9 @@ After completing the quick start guide, you'll be ready to:
 
 Choose a section above to begin your AnkiLingoFlash journey!
 
-[Install Now]({% link _getting-started/installation.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Start Tutorial]({% link _getting-started/quick-tutorial.md %}){: .btn .btn-secondary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Install Now]({% link installation.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Start Tutorial]({% link quick-tutorial.md %}){: .btn .btn-secondary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 
 
 Happy learning with AnkiLingoFlash!

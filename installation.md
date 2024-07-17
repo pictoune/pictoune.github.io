@@ -15,4 +15,4 @@ Follow these simple steps to install the AnkiLingoFlash browser extension:
 4. Follow the prompts to add the extension to your browser
 5. Once installed, you'll see the AnkiLingoFlash icon in your browser toolbar
 
-Congratulations! You're now ready to start using AnkiLingoFlash. Next, learn how to [configure AnkiLingoFlash]({% link _getting-started/quick-tutorial/configure-ankilingoflash.md %}) for the best experience.
+Congratulations! You're now ready to start using AnkiLingoFlash. Next, learn how to [configure AnkiLingoFlash]({% link configure-ankilingoflash.md %}) for the best experience.

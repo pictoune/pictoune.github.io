@@ -19,4 +19,4 @@ After installation, it's important to configure AnkiLingoFlash to suit your lear
 
 These configurations will help AnkiLingoFlash generate the most relevant and effective flashcards for your language learning journey.
 
-Next, learn how to [generate your first flashcard]({% link _getting-started/quick-tutorial/generate-your-first-flashcard.md %}).
+Next, learn how to [generate your first flashcard]({% link generate-your-first-flashcard.md %}).

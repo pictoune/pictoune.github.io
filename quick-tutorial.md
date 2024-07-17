@@ -12,7 +12,7 @@ Get up and running with AnkiLingoFlash in no time! This quick tutorial will guid
 
 ## Steps
 
-1. [Configure AnkiLingoFlash]({% link _getting-started/quick-tutorial/configure-ankilingoflash.md %})
-2. [Generate Your First Flashcard]({% link _getting-started/quick-tutorial/generate-your-first-flashcard.md %})
+1. [Configure AnkiLingoFlash]({% link configure-ankilingoflash.md %})
+2. [Generate Your First Flashcard]({% link generate-your-first-flashcard.md %})
 
 Follow these steps to start supercharging your language learning today!
