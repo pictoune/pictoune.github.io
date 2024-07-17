@@ -6,7 +6,7 @@ url: ""
 theme: just-the-docs
 
 color_scheme: custom
-search_enabled: true
+search_enabled: false
 heading_anchors: true
 
 aux_links: {}
