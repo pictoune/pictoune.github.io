@@ -28,4 +28,4 @@ Our mission is to make language learning more accessible, efficient, and enjoyab
 
 Start your journey to fluency today with AnkiLingoFlash!
 
-[Get Started Now]({% link _getting-started/index.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started Now]({% link getting-started.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

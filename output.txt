@@ -6,7 +6,7 @@ url: ""
 
 theme: just-the-docs
 
-color_scheme: light
+color_scheme: custom
 search_enabled: false
 heading_anchors: true
 
@@ -43,38 +43,11 @@ nav_order:
   - About
 
 just_the_docs:
-  collections:
-    getting-started:
-      name: Getting Started
-      nav_exclude: false
-      nav_fold: false
-      search_exclude: false
   gh_edit_link: false
 
 includes:
   - custom.css```;
-'_getting-started/index.md' : ```
----
-layout: page
-title: Getting Started
-nav_order: 2
-has_children: true
----
-
-# Getting Started with AnkiLingoFlash
-
-Welcome to AnkiLingoFlash! This guide will help you set up and start using our AI-powered language learning tool.
-
-## Quick Start
-
-1. [Installation](installation.md)
-2. [Quick Tutorial](quick-tutorial.md)
-   - [Configure AnkiLingoFlash](quick-tutorial/configure-ankilingoflash.md)
-   - [Generate Your First Flashcard](quick-tutorial/generate-your-first-flashcard.md)
-
-Choose a section to begin your journey with AnkiLingoFlash!
-
-[Install Now](installation.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }```;
+Le fichier '_getting-started/index.md' n'existe pas.
 '_getting-started/installation.md' : ```
 ---
 layout: page
@@ -213,32 +186,7 @@ Welcome to our blog! Here you'll find articles, tips, and insights to enhance yo
   <a href="{{ post.url | relative_url }}" class="btn btn-outline">Read More</a>
   <hr>
 {% endfor %}```;
-'custom.css' : ```
-/* custom.css */
-
-/* Changer la couleur du logo en jaune */
-.navbar-brand {
-    color: rgb(255, 204, 92) !important;
-}
-
-/* Remplacer la couleur violette par du vert */
-a {
-    color: rgb(125, 198, 7) !important;
-}
-
-.btn-primary {
-    background-color: rgb(125, 198, 7) !important;
-    border-color: rgb(125, 198, 7) !important;
-}
-
-a:hover, a:focus {
-    color: rgb(125, 198, 7) !important;
-}
-
-.btn-primary:hover, .btn-primary:focus {
-    background-color: rgb(125, 198, 7) !important;
-    border-color: rgb(125, 198, 7) !important;
-}```;
+Le fichier 'custom.css' n'existe pas.
 'Gemfile' : ```
 source "https://rubygems.org"
 
