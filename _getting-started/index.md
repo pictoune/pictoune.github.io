@@ -11,9 +11,11 @@ Welcome to AnkiLingoFlash! This guide will help you set up and start using our A
 
 ## Quick Start
 
-1. [Installation]({% link _getting-started/installation.md %})
-2. [Quick Tutorial]({% link _getting-started/quick-tutorial.md %})
-   - [Configure AnkiLingoFlash]({% link _getting-started/quick-tutorial/configure-ankilingoflash.md %})
-   - [Generate Your First Flashcard]({% link _getting-started/quick-tutorial/generate-your-first-flashcard.md %})
+1. [Installation](installation.md)
+2. [Quick Tutorial](quick-tutorial.md)
+   - [Configure AnkiLingoFlash](quick-tutorial/configure-ankilingoflash.md)
+   - [Generate Your First Flashcard](quick-tutorial/generate-your-first-flashcard.md)
 
 Choose a section to begin your journey with AnkiLingoFlash!
+
+[Install Now](installation.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

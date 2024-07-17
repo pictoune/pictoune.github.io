@@ -1,31 +1,23 @@
 title: AnkiLingoFlash
 description: Master Languages Faster with AI-Powered Flashcards
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: ""
 
-# Build settings
 theme: just-the-docs
 
-# Just the Docs settings
 color_scheme: light
-search_enabled: true
+search_enabled: false
 heading_anchors: true
 
-# Aux links for the upper right navigation
-aux_links:
-  "Install Now":
-    - "/getting-started/installation"
+aux_links: {}
 
-# Footer content
 footer_content: "© 2024 AnkiLingoFlash. All rights reserved."
 
-# Collections for organizing content
 collections:
   getting-started:
     output: true
     permalink: /:collection/:path/
 
-# Default front matter for pages
 defaults:
   -
     scope:
@@ -39,3 +31,21 @@ defaults:
       type: getting-started
     values:
       layout: page
+
+nav_external_links: []
+
+# Customize navigation order and include Getting Started
+nav_order:
+  - Home
+  - Getting Started
+  - Blog
+  - About
+
+just_the_docs:
+  collections:
+    getting-started:
+      name: Getting Started
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
+  gh_edit_link: false
