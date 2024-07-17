@@ -153,7 +153,7 @@ PLATFORMS
   arm-linux-gnueabihf
   arm-linux-musl
   arm-linux-musleabihf
-  arm64-darwin
+  arm64-darwin-23
   riscv64-linux-android
   riscv64-linux-gnu
   riscv64-linux-musl

@@ -49,3 +49,6 @@ just_the_docs:
       nav_fold: false
       search_exclude: false
   gh_edit_link: false
+
+includes:
+  - custom.css
