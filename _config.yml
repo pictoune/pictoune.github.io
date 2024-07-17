@@ -1,4 +1,4 @@
-title: AnkiLingoFlash
+title: AnkiLingoFlash<span class="site-logo"></span>
 description: Master Languages Faster with AI-Powered Flashcards
 baseurl: ""
 url: ""
@@ -46,3 +46,7 @@ just_the_docs:
 
 includes:
   - custom.css
+
+sass:
+  sass_dir: _sass
+  style: compressed

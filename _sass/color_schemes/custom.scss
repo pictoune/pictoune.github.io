@@ -4,3 +4,23 @@
 
 //$link-color: rgb(125, 198, 7); // Couleur verte pour les liens
 
+.site-title {
+    display: flex;
+    align-items: center;
+    color: rgb(255, 204, 92) !important;
+  }
+  
+  .site-title:hover {
+    color: rgb(255, 204, 92) !important;
+  }
+  
+  .site-logo {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('/assets/images/icon.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    margin-left: 10px;
+  }
