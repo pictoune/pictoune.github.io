@@ -35,3 +35,26 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+
+$nav-width: 300px;
+$content-width: 900px;
+
+
+.side-bar {
+    z-index: 0;
+    display: flex;
+    flex-wrap: wrap;
+  
+    @include mq(md) {
+      flex-flow: column nowrap;
+      position: fixed;
+      height: 100%;
+      align-items: flex-end;
+    }
+  
+    @include mq(lg) {
+      width: calc((100% - #{$nav-width + $content-width}) / 20 + #{$nav-width});
+      min-width: $nav-width;
+    }
+  }
