@@ -16,4 +16,4 @@ Follow these simple steps to install the AnkiLingoFlash browser extension:
 
 **Note**: AnkiLingoFlash is currently available for Google Chrome. Support for other major browsers, including Microsoft Edge and Firefox, will be rolled out in the coming weeks. Stay tuned for updates!
 
-Congratulations! You're now ready to start using AnkiLingoFlash. Next, learn how to [configure AnkiLingoFlash]({% link configure-ankilingoflash.md %}) for the best experience.
+Congratulations! You're now ready to start using AnkiLingoFlash. Next, learn how to [set-up AnkiLingoFlash]({% link quick-tutorial.md %}).
