@@ -47,6 +47,7 @@ plugins:
 
 includes:
   - custom.css
+  - "*.gif"
 
 sass:
   sass_dir: _sass
