@@ -1,20 +1,19 @@
 @import "./color_schemes/light"; // ou "dark" si vous préférez baser votre schéma sur le sombre
 
 // Personnaliser les couleurs
-
 //$link-color: rgb(125, 198, 7); // Couleur verte pour les liens
 
 .site-title {
     display: flex;
     align-items: center;
     color: rgb(255, 204, 92) !important;
-  }
-  
-  .site-title:hover {
+}
+
+.site-title:hover {
     color: rgb(255, 204, 92) !important;
-  }
-  
-  .site-logo {
+}
+
+.site-logo {
     display: inline-block;
     width: 24px;
     height: 24px;
@@ -23,4 +22,16 @@
     background-repeat: no-repeat;
     vertical-align: middle;
     margin-left: 10px;
-  }
+}
+
+// Ajout d'une classe pour le GIF de démonstration
+.demo-gif {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    background-image: url('/demo.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
