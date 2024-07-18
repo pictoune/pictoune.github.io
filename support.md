@@ -12,4 +12,4 @@ Moreover, I'm always eager to hear your ideas! Don't hesitate to let me know wha
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="victor_piriou" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
-Thank you for being part of the AnkiLingoFlash community and for helping make this tool even better!
+Thank you for being part of the AnkiLingoFlash community and for helping make this tool even better! 
