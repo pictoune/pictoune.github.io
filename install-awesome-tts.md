@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Install AwesomeTTS
+title: 2. Install AwesomeTTS
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 2

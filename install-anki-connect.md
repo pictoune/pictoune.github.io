@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Install Anki-Connect
+title: 1. Install Anki-Connect
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 1

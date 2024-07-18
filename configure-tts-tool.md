@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Configure Text-to-Speech Tool
+title: 5. Configure Text-to-Speech Tool
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 5

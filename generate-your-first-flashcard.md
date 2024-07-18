@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generate Your First Flashcard
+title: 4. Generate Your First Flashcard
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 4

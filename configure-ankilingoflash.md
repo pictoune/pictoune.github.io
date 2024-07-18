@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Configure AnkiLingoFlash
+title: 3. Configure AnkiLingoFlash
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 3

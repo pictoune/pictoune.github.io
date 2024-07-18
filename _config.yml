@@ -34,12 +34,14 @@ defaults:
 
 nav_external_links: []
 
-# Commentez ou supprimez cette section
+# Uncomment and modify this section
 nav_order:
-   - Home
-   - Getting Started
-   - Blog
-#   - About
+   - "1. Home"
+   - "2. Getting Started"
+   - "3. Installation"
+   - "4. Quick Tutorial"
+   - "5. Blog"
+   - About
 
 just_the_docs:
   gh_edit_link: false
