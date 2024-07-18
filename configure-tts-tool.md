@@ -1,24 +1,44 @@
 ---
 layout: page
 title: Configure Text-to-Speech Tool
-parent: Quick Tutorial
+parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 5
 ---
 
 # Configuring the Text-to-Speech Tool
 
-To add pronunciation guides to your flashcards, you need to configure AwesomeTTS in Anki:
+To add pronunciation guides to your flashcards, you need to configure the text-to-speech tool for your target language. Follow these steps:
 
-1. In Anki, go to Tools > Manage Note Types
-2. Select the note type created by AnkiLingoFlash (e.g., "AnkiLingoFlash_English")
-3. Click "Cards..."
-4. In the "Back Template" section, click "Add TTS"
-5. Choose your preferred TTS service (e.g., Google Cloud TTS)
-6. Select the appropriate voice for your target language
-7. Set the "Field" to "Front" (or the field containing the word to be pronounced)
-8. Click "Insert into Back Template"
-9. Adjust the placement of the [sound:] tag in your template as desired
-10. Click "Save"
+1. Generate your first flashcard as described in the previous step.
 
-Now your AnkiLingoFlash cards will include pronunciation audio when reviewed in Anki.
+2. In Anki, go to <i><strong>Tools > Manage Note Types</strong></i>.
+
+3. You should see the flashcard type corresponding to the language of the word or phrase you selected. For example, if you selected an English term, look for <i><strong>AnkiLingoFlash_English [1 note]</strong></i>.
+
+4. Select the appropriate card type and click on <i><strong>Cards...</strong></i>.
+
+5. In the card editor:
+   - Check the <i><strong>Back Template</strong></i>.
+   - Click on <i><strong>OK</strong></i> to dismiss any message that appears.
+   - Click on <i><strong>Add TTS</strong></i>.
+
+6. Configure the text-to-speech service:
+   - Select the service you want to use. For example, for English, you can choose the free local service <i><strong>Youdao Dictionary</strong></i>.
+   - Choose the appropriate voice (e.g., <i><strong>English, American [default]</strong></i> for English).
+   - Click on <i><strong>Save</strong></i>, then on <i><strong>OK</strong></i>.
+
+7. Set up the TTS fields:
+   - For the <i><strong>Field</strong></i> option, select <i><strong>Selection</strong></i>.
+   - For the <i><strong>Language</strong></i> field, select the desired language for text-to-speech.
+
+8. Finalize the setup:
+   - Click on <i><strong>Insert into Back Template</strong></i>.
+   - Close the message that appears by clicking on <i><strong>OK</strong></i>.
+   - In the Back Template, find the line <i><strong>[Text-to-speech not yet configured]</strong></i> and replace it with the line that was just added (it should contain the TTS tag).
+   - Click on <i><strong>Save</strong></i>.
+
+**Important**: You will need to repeat this process for each language you wish to learn.
+
+<strong><span class="blue-title2">Congratulations! You have now completely finished setting up </span><span class="highlight">AnkiLingoFlash</span><span class="blue-title2">. You can now review the first word or phrase you added to Anki, or continue to add other flashcards.</span></strong>
+

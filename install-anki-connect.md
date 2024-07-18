@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Install Anki-Connect
-parent: Quick Tutorial
+parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 1
 ---
@@ -31,3 +31,5 @@ Anki-Connect is crucial for AnkiLingoFlash to communicate with your Anki applica
   ]
 }
 ```
+
+Great job! Now that you've installed Anki-Connect, let's move on to the next step: [Installing AwesomeTTS]({% link install-awesome-tts.md %}).

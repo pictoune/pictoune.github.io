@@ -1,22 +1,21 @@
 ---
 layout: page
 title: Generate Your First Flashcard
-parent: Quick Tutorial
+parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 4
 ---
 
 # Generating Your First Flashcard
 
-Now that everything is set up, let's create your first AI-powered flashcard:
+Now that you've installed and configured AnkiLingoFlash, it's time to generate and add your first flashcard to Anki. Follow these steps:
 
-1. Navigate to a webpage in your target language
-2. Highlight a word or phrase you want to learn
-3. Right-click and select "Generate Flashcard" from the context menu
-4. Review the generated flashcard, which includes:
-   - Definition
-   - Mnemonic aid
-   - Pronunciation guide
-5. Click "Add to Anki" to save the flashcard to your chosen Anki deck
+1. Select a word or phrase on a recently loaded web page.
 
-Congratulations! You've just created your first AnkiLingoFlash card.
+2. Right-click on the selected term. This will open the context menu.
+
+3. Click on <i><strong>Generate a flashcard</strong></i> in the context menu. This action will trigger AnkiLingoFlash to create a new flashcard.
+
+4. Follow the on-screen instructions to create and add the flashcard to an Anki deck.
+
+Great job on creating your first flashcard! The final step is to [Configure the Text-to-Speech Tool]({% link configure-tts-tool.md %}) to add pronunciation guides to your flashcards.
