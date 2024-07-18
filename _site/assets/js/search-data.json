@@ -85,102 +85,88 @@
   },"12": {
     "doc": "Getting Started",
     "title": "Getting Started with AnkiLingoFlash",
-    "content": "Welcome to AnkiLingoFlash! This guide will help you set up and start using our AI-powered language learning tool. ",
+    "content": "Follow these steps to begin your journey with AnkiLingoFlash: . | Install AnkiLingoFlash. | Set-up AnkiLingoFlash . | . Happy learning with AnkiLingoFlash! . ",
     "url": "/getting-started.html#getting-started-with-ankilingoflash",
     
     "relUrl": "/getting-started.html#getting-started-with-ankilingoflash"
   },"13": {
-    "doc": "Getting Started",
-    "title": "Quick Start Guide",
-    "content": "Follow these steps to begin your journey with AnkiLingoFlash: . | Installation Learn how to install the AnkiLingoFlash browser extension on your preferred browser. | Quick Tutorial Get a quick overview of how to use AnkiLingoFlash and create your first flashcards. | . ",
-    "url": "/getting-started.html#quick-start-guide",
-    
-    "relUrl": "/getting-started.html#quick-start-guide"
-  },"14": {
-    "doc": "Getting Started",
-    "title": "What’s Next?",
-    "content": "After completing the quick start guide, you’ll be ready to: . | Generate AI-powered flashcards as you browse the web | Customize your learning experience | Start building your vocabulary efficiently | . Choose a section above to begin your AnkiLingoFlash journey! . Install Now Start Tutorial . Happy learning with AnkiLingoFlash! . ",
-    "url": "/getting-started.html#whats-next",
-    
-    "relUrl": "/getting-started.html#whats-next"
-  },"15": {
     "doc": "Getting Started",
     "title": "Getting Started",
     "content": " ",
     "url": "/getting-started.html",
     
     "relUrl": "/getting-started.html"
-  },"16": {
+  },"14": {
     "doc": "Home",
     "title": "Transform Your Web Browsing into Language Learning",
     "content": "Supercharge your Anki experience with the AnkiLingoFlash browser extension. ",
     "url": "/#transform-your-web-browsing-into-language-learning",
     
     "relUrl": "/#transform-your-web-browsing-into-language-learning"
-  },"17": {
+  },"15": {
     "doc": "Home",
     "title": "Experience the power of AnkiLingoFlash:",
     "content": ". | Install our browser extension with a single click | Browse your favorite websites as usual | Right-click on any words or phrases you want to learn | Instantly receive AI-generated flashcards without leaving your browser! | . Install Now . ",
     "url": "/#experience-the-power-of-ankilingoflash",
     
     "relUrl": "/#experience-the-power-of-ankilingoflash"
-  },"18": {
+  },"16": {
     "doc": "Home",
     "title": "Unique Features",
     "content": ". | AI-Powered Flashcards: Create comprehensive flashcards with definitions, mnemonics, and pronunciation guides. | Seamless Anki Integration: Generate and add cards to Anki directly from your browser, without typing and disrupting your daily routine. | Personalized Learning: Create personalized flashcard sets tailored to your interests, no more downloading uncertain quality decks. | . Elevate your language skills with AnkiLingoFlash – where every webpage becomes a learning opportunity! . ",
     "url": "/#unique-features",
     
     "relUrl": "/#unique-features"
-  },"19": {
+  },"17": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"20": {
+  },"18": {
     "doc": "1. Install Anki-Connect",
     "title": "Installing Anki-Connect",
     "content": "Anki-Connect is crucial for AnkiLingoFlash to communicate with your Anki application. Here’s how to install it: . | Open Anki and go to Tools &gt; Add-ons &gt; Get Add-ons… | Enter the code 2055492159 and click OK. | A message prompting you to restart Anki should appear; close it by clicking on OK. | Go to Tools &gt; Add-ons | Double-click on AnkiConnect in the add-ons list. | Replace the entire configuration with the following: | . { \"apiKey\": null, \"apiLogPath\": null, \"ignoreOriginList\": [], \"webBindAddress\": \"127.0.0.1\", \"webBindPort\": 8765, \"webCorsOriginList\": [ \"chrome-extension://hicnjnfcmjfnomdfmekhigghmlkmachb\", \"http://localhost/*\", \"https://*/*\" ] } . Great job! Now that you’ve installed Anki-Connect, let’s move on to the next step: Installing AwesomeTTS. ",
     "url": "/install-anki-connect.html#installing-anki-connect",
     
     "relUrl": "/install-anki-connect.html#installing-anki-connect"
-  },"21": {
+  },"19": {
     "doc": "1. Install Anki-Connect",
     "title": "1. Install Anki-Connect",
     "content": " ",
     "url": "/install-anki-connect.html",
     
     "relUrl": "/install-anki-connect.html"
-  },"22": {
+  },"20": {
     "doc": "2. Install AwesomeTTS",
     "title": "Installing AwesomeTTS",
     "content": "AwesomeTTS is a powerful text-to-speech tool for Anki. Here’s how to install it: . | In Anki, go to Tools &gt; Add-ons &gt; Get Add-ons… | Enter the code 1436550454 and click OK | Restart Anki when prompted | . Excellent! With AwesomeTTS installed, you’re ready for the next step: Configuring AnkiLingoFlash. ",
     "url": "/install-awesome-tts.html#installing-awesometts",
     
     "relUrl": "/install-awesome-tts.html#installing-awesometts"
-  },"23": {
+  },"21": {
     "doc": "2. Install AwesomeTTS",
     "title": "2. Install AwesomeTTS",
     "content": " ",
     "url": "/install-awesome-tts.html",
     
     "relUrl": "/install-awesome-tts.html"
-  },"24": {
+  },"22": {
     "doc": "Installation",
     "title": "Installing AnkiLingoFlash",
     "content": "Follow these simple steps to install the AnkiLingoFlash browser extension: . | Visit the Chrome Web Store | Click on the “Add to Chrome” button | Follow the prompts to add the extension to your browser | Once installed, you’ll see the AnkiLingoFlash icon in your browser toolbar | . Note: AnkiLingoFlash is currently available for Google Chrome. Support for other major browsers, including Microsoft Edge and Firefox, will be rolled out in the coming weeks. Stay tuned for updates! . Congratulations! You’re now ready to start using AnkiLingoFlash. Next, learn how to set-up AnkiLingoFlash. ",
     "url": "/installation.html#installing-ankilingoflash",
     
     "relUrl": "/installation.html#installing-ankilingoflash"
-  },"25": {
+  },"23": {
     "doc": "Installation",
     "title": "Installation",
     "content": " ",
     "url": "/installation.html",
     
     "relUrl": "/installation.html"
-  },"26": {
+  },"24": {
     "doc": "Quick Tutorial for Setting Up AnkiLingoFlash",
     "title": "Quick Tutorial for Setting Up AnkiLingoFlash",
     "content": "Get up and running with AnkiLingoFlash in no time! This quick tutorial will guide you through the basic setup and usage of our AI-powered language learning tool. Follow these steps to start supercharging your language learning today! . ",
