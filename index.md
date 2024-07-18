@@ -20,7 +20,7 @@ Supercharge your Anki experience with the AnkiLingoFlash browser extension.
 
 ## See AnkiLingoFlash in Action:
 
-![AnkiLingoFlash Demo](/demo.gif){: .demo-gif}
+![AnkiLingoFlash Demo](/demo.gif){: .demo-gif} 
 
 ## Unique Features:
 
