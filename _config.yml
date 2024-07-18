@@ -17,7 +17,7 @@ collections:
   getting-started:
     output: true
     permalink: /:collection/:path/
-
+ 
 defaults:
   -
     scope:
