@@ -35,13 +35,13 @@ defaults:
 nav_external_links: []
 
 nav_order:
-   - "1. Home"
-   - "2. Getting Started"
-   - "3. Installation"
-   - "4. Quick Tutorial"
-   - "5. Blog"
-   - "6. Support AnkiLingoFlash"
-   - About
+   - "Home"
+   - "Getting Started"
+   - "Installation"
+   - "Quick Tutorial"
+   - "Blog"
+   - "About"
+   - "Support AnkiLingoFlash"
 
 plugins:
   - jekyll-remote-theme
