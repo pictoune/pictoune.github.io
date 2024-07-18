@@ -3,7 +3,7 @@ description: Master Languages Faster with AI-Powered Flashcards
 baseurl: ""
 url: ""
 
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 color_scheme: custom
 search_enabled: false
