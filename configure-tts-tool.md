@@ -40,5 +40,5 @@ To add pronunciation guides to your flashcards, you need to configure the text-t
 
 **Important**: You will need to repeat this process for each language you wish to learn.
 
-<strong><span class="blue-title2">Congratulations! You have now completely finished setting up </span><span class="highlight">AnkiLingoFlash</span><span class="blue-title2">. You can now review the first word or phrase you added to Anki, or continue to add other flashcards.</span></strong>
+<strong><span class="blue-title2">Congratulations! You have now completely finished setting up </span>AnkiLingoFlash<span class="blue-title2">. You can now review the first word or phrase you added to Anki, or continue to add other flashcards.</span></strong>
 

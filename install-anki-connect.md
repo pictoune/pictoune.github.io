@@ -16,7 +16,7 @@ Anki-Connect is crucial for AnkiLingoFlash to communicate with your Anki applica
 
 3. A message prompting you to restart Anki should appear; close it by clicking on <i><strong>OK</strong></i>.
 
-4. Go to <i><strong>Tools > Add-ons</strong></i>
+4. Go back to <i><strong>Tools > Add-ons</strong></i>
 
 5. Double-click on <i><strong>AnkiConnect</strong></i> in the add-ons list.
 

@@ -10,7 +10,7 @@ nav_order: 4
 
 Now that you've installed and configured AnkiLingoFlash, it's time to generate and add your first flashcard to Anki. Follow these steps:
 
-1. Select a word or phrase on a recently loaded web page.
+1. Select a word or phrase on a web page.
 
 2. Right-click on the selected term. This will open the context menu.
 

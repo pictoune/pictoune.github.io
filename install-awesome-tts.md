@@ -10,7 +10,7 @@ nav_order: 2
 
 AwesomeTTS is a powerful text-to-speech tool for Anki, necessary for adding vocal pronunciation guides to your flashcards. Here's how to install it:
 
-1. In Anki, go to <i><strong>Tools > Add-ons > Get Add-ons...</strong></i>
+1. In Anki, go back to <i><strong>Tools > Add-ons > Get Add-ons...</strong></i>
 
 2. Enter the code <i><strong>1436550454</strong></i> and click <i><strong>OK</strong></i>
 

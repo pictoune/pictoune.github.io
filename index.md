@@ -28,4 +28,4 @@ Supercharge your Anki experience with the AnkiLingoFlash browser extension.
 - **Seamless Anki Integration**: Generate and add cards to Anki directly from your browser, without typing and disrupting your daily routine.
 - **Personalized Learning**: Create personalized flashcard sets tailored to your interests, no more downloading uncertain quality decks.
 
-Integrate AnkiLingoFlash into your daily browsing routine and watch your vocabulary grow day by day.
+Integrate AnkiLingoFlash into your daily browsing routine and watch your vocabulary grow day by day. 🌱
