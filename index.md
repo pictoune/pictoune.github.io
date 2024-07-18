@@ -18,10 +18,14 @@ Supercharge your Anki experience with the AnkiLingoFlash browser extension.
 
 [Install Now]({% link installation.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
+## See AnkiLingoFlash in Action
+
+![AnkiLingoFlash Demo](demo.GIF){: .img-fluid .mx-auto .d-block }
+
 ## Unique Features
 
 - **AI-Powered Flashcards**: Create comprehensive flashcards with definitions, mnemonics, and pronunciation guides.
 - **Seamless Anki Integration**: Generate and add cards to Anki directly from your browser, without typing and disrupting your daily routine.
 - **Personalized Learning**: Create personalized flashcard sets tailored to your interests, no more downloading uncertain quality decks.
 
-Elevate your language skills with AnkiLingoFlash – where every webpage becomes a learning opportunity!
+Integrate AnkiLingoFlash into your daily browsing routine and watch your vocabulary grow day by day.

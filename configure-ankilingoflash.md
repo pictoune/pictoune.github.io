@@ -8,7 +8,7 @@ nav_order: 3
 
 # Configuring AnkiLingoFlash
 
-After installing Anki-Connect and AwesomeTTS, it's important to configure AnkiLingoFlash to suit your learning needs. Here's how to do it:
+After installing Anki-Connect and AwesomeTTS, you need to configure AnkiLingoFlash to choose how you'll use the extension. Here's how to do it:
 
 1. Click on the AnkiLingoFlash icon in your browser toolbar to open the extension popup.
 
@@ -21,7 +21,7 @@ After installing Anki-Connect and AwesomeTTS, it's important to configure AnkiLi
    - Follow the prompts to authenticate with your Google account.
    - Once logged in, you'll see a welcome message and the number of free flashcards remaining.
 
-4. If you choose to use your own credits or have exhausted your free trial:
+4. If you choose to use your own credits:
    - You'll need to use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards).
    - Follow these steps to create and use an OpenAI API key:
 
@@ -45,4 +45,6 @@ After installing Anki-Connect and AwesomeTTS, it's important to configure AnkiLi
 5. Select the language for definitions and mnemonics:
    - Choose from available options: English, French, Spanish, Portuguese (Portugal), German, Italian, or Danish.
 
-Now that you've configured AnkiLingoFlash, it's time to put it to use! Let's move on to [Generating Your First Flashcard]({% link generate-your-first-flashcard.md %}).
+Note: If you're unsure about using your own credits, don't worry! Even if you don't generate enough flashcards to use the entire $5, you can still use the remaining credits in OpenAI's playground or for other AI-powered tools and experiments.
+
+Fantastic progress! Now that you've configured AnkiLingoFlash, it's time to put it to use! Let's move on to [Generating Your First Flashcard]({% link generate-your-first-flashcard.md %}).

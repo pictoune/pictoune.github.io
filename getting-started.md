@@ -3,11 +3,12 @@ layout: page
 title: Getting Started
 nav_order: 2
 has_children: true
+has_toc: false
 ---
 
 # Getting Started with AnkiLingoFlash
 
-Follow these steps to begin your journey with AnkiLingoFlash:
+Follow the steps below to begin your journey with AnkiLingoFlash:
 
 1. [Install AnkiLingoFlash.]({% link installation.md %})
 

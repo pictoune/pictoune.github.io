@@ -32,4 +32,4 @@ Anki-Connect is crucial for AnkiLingoFlash to communicate with your Anki applica
 }
 ```
 
-Great job! Now that you've installed Anki-Connect, let's move on to the next step: [Installing AwesomeTTS]({% link install-awesome-tts.md %}).
+Very nice! Now that you've installed Anki-Connect, let's move on to the next step: [Installing AwesomeTTS]({% link install-awesome-tts.md %}).

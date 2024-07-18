@@ -43,7 +43,7 @@
   },"6": {
     "doc": "3. Configure AnkiLingoFlash",
     "title": "Configuring AnkiLingoFlash",
-    "content": "After installing Anki-Connect and AwesomeTTS, it’s important to configure AnkiLingoFlash to suit your learning needs. Here’s how to do it: . | Click on the AnkiLingoFlash icon in your browser toolbar to open the extension popup. | In the popup, you’ll see two options: . | Free trial: Start with a limited number of free flashcards. | Own credits: Use your own OpenAI API credits for unlimited flashcards. | . | If you choose the free trial: . | Click on the Sign in with Google button. | Follow the prompts to authenticate with your Google account. | Once logged in, you’ll see a welcome message and the number of free flashcards remaining. | . | If you choose to use your own credits or have exhausted your free trial: . | You’ll need to use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards). | Follow these steps to create and use an OpenAI API key: . a. Create an OpenAI Account: Go to the ChatGPT website and sign up for an account. b. Generate an API Key: . | Navigate to the API keys section. | Click on “Create new secret key”. | Choose a name for your key, such as “AnkiLingoFlash”. | Click on “Create secret key”. | Note down the generated key. | . c. Add Funds to Your Account: . | In the OpenAI dashboard, go to the “Settings” menu. | Navigate to the “Billing” section. | Add a minimum of $5 USD (or equivalent) to your account. | . d. Use the API Key in AnkiLingoFlash: . | Copy your API key and paste it into the settings of the AnkiLingoFlash extension. | . | . | Select the language for definitions and mnemonics: . | Choose from available options: English, French, Spanish, Portuguese (Portugal), German, Italian, or Danish. | . | . Now that you’ve configured AnkiLingoFlash, it’s time to put it to use! Let’s move on to Generating Your First Flashcard. ",
+    "content": "After installing Anki-Connect and AwesomeTTS, you need to configure AnkiLingoFlash to choose how you’ll use the extension. Here’s how to do it: . | Click on the AnkiLingoFlash icon in your browser toolbar to open the extension popup. | In the popup, you’ll see two options: . | Free trial: Start with a limited number of free flashcards. | Own credits: Use your own OpenAI API credits for unlimited flashcards. | . | If you choose the free trial: . | Click on the Sign in with Google button. | Follow the prompts to authenticate with your Google account. | Once logged in, you’ll see a welcome message and the number of free flashcards remaining. | . | If you choose to use your own credits: . | You’ll need to use your own OpenAI API key, which is very cost-effective (a dollar can generate thousands of flashcards). | Follow these steps to create and use an OpenAI API key: . a. Create an OpenAI Account: Go to the ChatGPT website and sign up for an account. b. Generate an API Key: . | Navigate to the API keys section. | Click on “Create new secret key”. | Choose a name for your key, such as “AnkiLingoFlash”. | Click on “Create secret key”. | Note down the generated key. | . c. Add Funds to Your Account: . | In the OpenAI dashboard, go to the “Settings” menu. | Navigate to the “Billing” section. | Add a minimum of $5 USD (or equivalent) to your account. | . d. Use the API Key in AnkiLingoFlash: . | Copy your API key and paste it into the settings of the AnkiLingoFlash extension. | . | . | Select the language for definitions and mnemonics: . | Choose from available options: English, French, Spanish, Portuguese (Portugal), German, Italian, or Danish. | . | . Note: If you’re unsure about using your own credits, don’t worry! Even if you don’t generate enough flashcards to use the entire $5, you can still use the remaining credits in OpenAI’s playground or for other AI-powered tools and experiments. Fantastic progress! Now that you’ve configured AnkiLingoFlash, it’s time to put it to use! Let’s move on to Generating Your First Flashcard. ",
     "url": "/configure-ankilingoflash.html#configuring-ankilingoflash",
     
     "relUrl": "/configure-ankilingoflash.html#configuring-ankilingoflash"
@@ -85,7 +85,7 @@
   },"12": {
     "doc": "Getting Started",
     "title": "Getting Started with AnkiLingoFlash",
-    "content": "Follow these steps to begin your journey with AnkiLingoFlash: . | Install AnkiLingoFlash. | Set-up AnkiLingoFlash . | . Happy learning with AnkiLingoFlash! . ",
+    "content": "Follow the steps below to begin your journey with AnkiLingoFlash: . | Install AnkiLingoFlash. | Set-up AnkiLingoFlash . | . Happy learning with AnkiLingoFlash! . ",
     "url": "/getting-started.html#getting-started-with-ankilingoflash",
     
     "relUrl": "/getting-started.html#getting-started-with-ankilingoflash"
@@ -112,64 +112,71 @@
     "relUrl": "/#experience-the-power-of-ankilingoflash"
   },"16": {
     "doc": "Home",
+    "title": "See AnkiLingoFlash in Action",
+    "content": ". ",
+    "url": "/#see-ankilingoflash-in-action",
+    
+    "relUrl": "/#see-ankilingoflash-in-action"
+  },"17": {
+    "doc": "Home",
     "title": "Unique Features",
-    "content": ". | AI-Powered Flashcards: Create comprehensive flashcards with definitions, mnemonics, and pronunciation guides. | Seamless Anki Integration: Generate and add cards to Anki directly from your browser, without typing and disrupting your daily routine. | Personalized Learning: Create personalized flashcard sets tailored to your interests, no more downloading uncertain quality decks. | . Elevate your language skills with AnkiLingoFlash – where every webpage becomes a learning opportunity! . ",
+    "content": ". | AI-Powered Flashcards: Create comprehensive flashcards with definitions, mnemonics, and pronunciation guides. | Seamless Anki Integration: Generate and add cards to Anki directly from your browser, without typing and disrupting your daily routine. | Personalized Learning: Create personalized flashcard sets tailored to your interests, no more downloading uncertain quality decks. | . Integrate AnkiLingoFlash into your daily browsing routine and watch your vocabulary grow day by day. ",
     "url": "/#unique-features",
     
     "relUrl": "/#unique-features"
-  },"17": {
+  },"18": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"18": {
+  },"19": {
     "doc": "1. Install Anki-Connect",
     "title": "Installing Anki-Connect",
-    "content": "Anki-Connect is crucial for AnkiLingoFlash to communicate with your Anki application. Here’s how to install it: . | Open Anki and go to Tools &gt; Add-ons &gt; Get Add-ons… | Enter the code 2055492159 and click OK. | A message prompting you to restart Anki should appear; close it by clicking on OK. | Go to Tools &gt; Add-ons | Double-click on AnkiConnect in the add-ons list. | Replace the entire configuration with the following: | . { \"apiKey\": null, \"apiLogPath\": null, \"ignoreOriginList\": [], \"webBindAddress\": \"127.0.0.1\", \"webBindPort\": 8765, \"webCorsOriginList\": [ \"chrome-extension://hicnjnfcmjfnomdfmekhigghmlkmachb\", \"http://localhost/*\", \"https://*/*\" ] } . Great job! Now that you’ve installed Anki-Connect, let’s move on to the next step: Installing AwesomeTTS. ",
+    "content": "Anki-Connect is crucial for AnkiLingoFlash to communicate with your Anki application. Here’s how to install it: . | Open Anki and go to Tools &gt; Add-ons &gt; Get Add-ons… | Enter the code 2055492159 and click OK. | A message prompting you to restart Anki should appear; close it by clicking on OK. | Go to Tools &gt; Add-ons | Double-click on AnkiConnect in the add-ons list. | Replace the entire configuration with the following: | . { \"apiKey\": null, \"apiLogPath\": null, \"ignoreOriginList\": [], \"webBindAddress\": \"127.0.0.1\", \"webBindPort\": 8765, \"webCorsOriginList\": [ \"chrome-extension://hicnjnfcmjfnomdfmekhigghmlkmachb\", \"http://localhost/*\", \"https://*/*\" ] } . Very nice! Now that you’ve installed Anki-Connect, let’s move on to the next step: Installing AwesomeTTS. ",
     "url": "/install-anki-connect.html#installing-anki-connect",
     
     "relUrl": "/install-anki-connect.html#installing-anki-connect"
-  },"19": {
+  },"20": {
     "doc": "1. Install Anki-Connect",
     "title": "1. Install Anki-Connect",
     "content": " ",
     "url": "/install-anki-connect.html",
     
     "relUrl": "/install-anki-connect.html"
-  },"20": {
+  },"21": {
     "doc": "2. Install AwesomeTTS",
     "title": "Installing AwesomeTTS",
-    "content": "AwesomeTTS is a powerful text-to-speech tool for Anki. Here’s how to install it: . | In Anki, go to Tools &gt; Add-ons &gt; Get Add-ons… | Enter the code 1436550454 and click OK | Restart Anki when prompted | . Excellent! With AwesomeTTS installed, you’re ready for the next step: Configuring AnkiLingoFlash. ",
+    "content": "AwesomeTTS is a powerful text-to-speech tool for Anki, necessary for adding vocal pronunciation guides to your flashcards. Here’s how to install it: . | In Anki, go to Tools &gt; Add-ons &gt; Get Add-ons… | Enter the code 1436550454 and click OK | Restart Anki when prompted | . Excellent! With AwesomeTTS installed, you’re ready for the next step: Configuring AnkiLingoFlash. ",
     "url": "/install-awesome-tts.html#installing-awesometts",
     
     "relUrl": "/install-awesome-tts.html#installing-awesometts"
-  },"21": {
+  },"22": {
     "doc": "2. Install AwesomeTTS",
     "title": "2. Install AwesomeTTS",
     "content": " ",
     "url": "/install-awesome-tts.html",
     
     "relUrl": "/install-awesome-tts.html"
-  },"22": {
+  },"23": {
     "doc": "Installation",
     "title": "Installing AnkiLingoFlash",
-    "content": "Follow these simple steps to install the AnkiLingoFlash browser extension: . | Visit the Chrome Web Store | Click on the “Add to Chrome” button | Follow the prompts to add the extension to your browser | Once installed, you’ll see the AnkiLingoFlash icon in your browser toolbar | . Note: AnkiLingoFlash is currently available for Google Chrome. Support for other major browsers, including Microsoft Edge and Firefox, will be rolled out in the coming weeks. Stay tuned for updates! . Congratulations! You’re now ready to start using AnkiLingoFlash. Next, learn how to set-up AnkiLingoFlash. ",
+    "content": "Follow these simple steps to install the AnkiLingoFlash browser extension: . | Visit the Chrome Web Store | Click on the “Add to Chrome” button | Follow the prompts to add the extension to your browser | Once installed, you’ll see the AnkiLingoFlash icon in your browser toolbar | . Note: AnkiLingoFlash is currently available for Google Chrome. Support for other major browsers, including Microsoft Edge and Firefox, will be rolled out in the coming weeks. Very good work! Now, learn how to set-up AnkiLingoFlash. ",
     "url": "/installation.html#installing-ankilingoflash",
     
     "relUrl": "/installation.html#installing-ankilingoflash"
-  },"23": {
+  },"24": {
     "doc": "Installation",
     "title": "Installation",
     "content": " ",
     "url": "/installation.html",
     
     "relUrl": "/installation.html"
-  },"24": {
+  },"25": {
     "doc": "Quick Tutorial for Setting Up AnkiLingoFlash",
     "title": "Quick Tutorial for Setting Up AnkiLingoFlash",
-    "content": "Get up and running with AnkiLingoFlash in no time! This quick tutorial will guide you through the basic setup and usage of our AI-powered language learning tool. Follow these steps to start supercharging your language learning today! . ",
+    "content": "Follow the steps below to set up AnkiLingoFlash. It won’t take you more than 5 minutes. | Install Anki-Connect . | Install AwesomeTTS . | Configure AnkiLingoFlash . | Generate Your First Flashcard . | Configure Text-to-Speech Tool . | . ",
     "url": "/quick-tutorial.html",
     
     "relUrl": "/quick-tutorial.html"
