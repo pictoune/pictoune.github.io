@@ -11,6 +11,12 @@ AnkiLingoFlash is an web browser extension aiming to make language learning more
 
 [Get Started Now]({% link getting-started.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
+## Author
+
+AnkiLingoFlash was created by Victor Piriou.
+
+- LinkedIn: [Victor Piriou](https://www.linkedin.com/in/victor-piriou/)
+- Email: piriouvictor [at] gmail [dot] com
 
 
 
