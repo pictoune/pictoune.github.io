@@ -11,7 +11,7 @@ Supercharge your Anki experience with the AnkiLingoFlash browser extension.
 ## Experience the power of AnkiLingoFlash:
 
 {: .highlight }
-> 1. Install our browser extension with a single click
+> 1. Install the browser extension
 > 2. Browse your favorite websites as usual
 > 3. Right-click on any words or phrases you want to learn
 > 4. Instantly receive AI-generated flashcards without leaving your browser!
