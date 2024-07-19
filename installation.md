@@ -3,6 +3,7 @@ layout: page
 title: Installation
 parent: Getting Started
 nav_order: 1
+description: "Easy installation guide for AnkiLingoFlash. Learn how to add this powerful language learning tool to your browser in no time."
 ---
 
 # Installing AnkiLingoFlash

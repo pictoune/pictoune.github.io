@@ -4,6 +4,7 @@ title: 2. Install AwesomeTTS
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 2
+description: "Discover how to install AwesomeTTS, an essential text-to-speech tool for adding vocal pronunciation guides to your flashcards."
 ---
 
 # Installing AwesomeTTS

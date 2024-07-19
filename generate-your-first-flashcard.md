@@ -4,6 +4,7 @@ title: 4. Generate Your First Flashcard
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 4
+description: "Learn how to generate your first AI-powered flashcard with AnkiLingoFlash."
 ---
 
 # Generating Your First Flashcard

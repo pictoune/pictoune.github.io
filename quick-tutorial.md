@@ -5,6 +5,7 @@ parent: Getting Started
 nav_order: 2
 has_children: true
 has_toc: false
+description: "Quick tutorial for AnkiLingoFlash setup. Learn how to install Anki-Connect, AwesomeTTS, configure AnkiLingoFlash, generate your first AI-powered flashcard and configure AwesomeTTS in less than 5 minutes."
 ---
 
 # Quick Tutorial for Setting Up AnkiLingoFlash

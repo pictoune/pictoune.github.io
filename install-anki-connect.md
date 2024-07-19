@@ -4,6 +4,7 @@ title: 1. Install Anki-Connect
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 1
+description: "Step-by-step guide to install Anki-Connect, a crucial add-on for AnkiLingoFlash. Learn how to set up this tool to enable seamless communication between AnkiLingoFlash and your Anki application."
 ---
 
 # Installing Anki-Connect

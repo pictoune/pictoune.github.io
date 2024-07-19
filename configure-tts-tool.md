@@ -4,6 +4,7 @@ title: 5. Configure Text-to-Speech Tool
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 5
+description: "Learn how to configure the Text-to-Speech tool AwesomeTTS for AnkiLingoFlash."
 ---
 
 # Configuring the Text-to-Speech Tool

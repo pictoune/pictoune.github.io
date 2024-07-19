@@ -2,6 +2,7 @@
 layout: page
 title: Support AnkiLingoFlash
 nav_order: 5
+description: "Help us grow and improve AnkiLingoFlash. Contribute to the development of AnkiLingoFlash and shape the future of effortless vocabulary acquisition."
 ---
 
 # Support AnkiLingoFlash

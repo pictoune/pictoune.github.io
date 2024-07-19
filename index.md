@@ -2,6 +2,7 @@
 layout: home
 title: Home
 nav_order: 1
+description: "AnkiLingoFlash: Transform your web browsing into effortless language learning. Create AI-powered flashcards instantly while you surf the web. Boost your vocabulary with personalized Anki cards."
 ---
 
 # Transform Your Web Browsing into Language Learning

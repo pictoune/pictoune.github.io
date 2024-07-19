@@ -4,6 +4,7 @@ title: 3. Configure AnkiLingoFlash
 parent: Quick Tutorial for Setting Up AnkiLingoFlash
 grand_parent: Getting Started
 nav_order: 3
+description: "Comprehensive guide on configuring AnkiLingoFlash. Set up your prefered language for the definitions and mnemonics of your flashcards, and customize your AI-powered flashcard generation process."
 ---
 
 # Configuring AnkiLingoFlash

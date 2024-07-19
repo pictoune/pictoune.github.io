@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 nav_order: 3
+description: "AnkiLingoFlash blog: Discover tips, tricks, and insights about language learning, AI-powered flashcards, and how to make the most of your AnkiLingoFlash experience."
 ---
 
 # AnkiLingoFlash Blog
