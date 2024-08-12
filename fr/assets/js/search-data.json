@@ -1,0 +1,233 @@
+{"0": {
+    "doc": "À propos",
+    "title": "À propos d’AnkiLingoFlash",
+    "content": " ",
+    "url": "/fr/about.html#%C3%A0-propos-dankilingoflash",
+    
+    "relUrl": "/about.html#à-propos-dankilingoflash"
+  },"1": {
+    "doc": "À propos",
+    "title": "🎯 La Mission",
+    "content": "AnkiLingoFlash est une extension de navigateur web visant à rendre l’apprentissage des langues plus accessible, efficace et agréable pour tous. Elle a été conçue pour vous aider à atteindre vos objectifs d’apprentissage des langues plus rapidement que jamais. ",
+    "url": "/fr/about.html#-la-mission",
+    
+    "relUrl": "/about.html#-la-mission"
+  },"2": {
+    "doc": "À propos",
+    "title": "🌟 Les Valeurs",
+    "content": ". | ⚡ Efficacité : AnkiLingoFlash est conçue pour minimiser le nombre d’actions (par exemple, clics) nécessaires de la part de l’utilisateur pour créer une flashcard. J’ai également gardé l’expérience sans publicité, vous permettant de vous concentrer uniquement sur l’apprentissage. | 🔒 Confidentialité : Votre clé API est stockée uniquement localement sur votre appareil et est cryptée pour plus de sécurité. Je ne collecte ni ne stocke ces informations. | 🔄 Amélioration Continue : AnkiLingoFlash sera mis à jour au moins une fois par mois. Voici la liste des mises à jour : . | Version 0.2.x : Utilisation optimisée des jetons, entraînant des appels API plus efficaces. Les utilisateurs avec leur propre clé API peuvent désormais choisir des modèles OpenAI au-delà de gpt-4o-mini pour une génération améliorée de flashcards. | . | . ",
+    "url": "/fr/about.html#-les-valeurs",
+    
+    "relUrl": "/about.html#-les-valeurs"
+  },"3": {
+    "doc": "À propos",
+    "title": "👨‍💻 Le Créateur",
+    "content": "Bonjour, je suis Victor Piriou. Pour moi, AnkiLingoFlash représente un outil que j’aurais souhaité avoir lorsque j’ai commencé à apprendre l’allemand. 📬 Contactez-moi . J’aimerais beaucoup avoir de vos nouvelles ! Que vous ayez des questions, des suggestions ou que vous souhaitiez simplement partager votre histoire d’apprentissage des langues : . | Email : support [at] ankilingoflash [dot] com | LinkedIn : Victor Piriou | . ",
+    "url": "/fr/about.html#-le-cr%C3%A9ateur",
+    
+    "relUrl": "/about.html#-le-créateur"
+  },"4": {
+    "doc": "À propos",
+    "title": "À propos",
+    "content": " ",
+    "url": "/fr/about.html",
+    
+    "relUrl": "/about.html"
+  },"5": {
+    "doc": "Blog",
+    "title": "Blog AnkiLingoFlash",
+    "content": " ",
+    "url": "/fr/blog.html#blog-ankilingoflash",
+    
+    "relUrl": "/blog.html#blog-ankilingoflash"
+  },"6": {
+    "doc": "Blog",
+    "title": "🚀 Apprenez une nouvelle langue en quelques mois, pas en années : Utilisez AnkiLingoFlash pour construire rapidement une base solide de vocabulaire",
+    "content": "16 July 2024 . ",
+    "url": "/fr/blog.html",
+    
+    "relUrl": "/blog.html"
+  },"7": {
+    "doc": "Blog",
+    "title": "Blog",
+    "content": " ",
+    "url": "/fr/blog.html",
+    
+    "relUrl": "/blog.html"
+  },"8": {
+    "doc": "3. Configurez AnkiLingoFlash",
+    "title": "Configuration d’AnkiLingoFlash",
+    "content": "Après avoir installé Anki-Connect et AwesomeTTS, vous devez configurer AnkiLingoFlash. Suivez ces étapes : . | Cliquez sur l’icône AnkiLingoFlash dans la barre d’outils de votre navigateur pour ouvrir le popup de l’extension. | Dans le popup, vous verrez deux options. Choisissez-en une : . ",
+    "url": "/fr/configure-ankilingoflash.html#configuration-dankilingoflash",
+    
+    "relUrl": "/configure-ankilingoflash.html#configuration-dankilingoflash"
+  },"9": {
+    "doc": "3. Configurez AnkiLingoFlash",
+    "title": "Option A : Essai gratuit",
+    "content": ". | Cliquez sur le bouton Se connecter avec Google. | Suivez les invites pour vous authentifier avec votre compte Google. | Une fois connecté, vous verrez un message de bienvenue et le nombre de cartes mémoires gratuites restantes. | . ",
+    "url": "/fr/configure-ankilingoflash.html#option-a--essai-gratuit",
+    
+    "relUrl": "/configure-ankilingoflash.html#option-a--essai-gratuit"
+  },"10": {
+    "doc": "3. Configurez AnkiLingoFlash",
+    "title": "Option B : Utilisez vos propres crédits OpenAI",
+    "content": "Cette option fournit des cartes mémoires illimitées et est très économique. Pour en savoir plus sur l’utilisation de vos propres crédits OpenAI, y compris comment configurer un compte OpenAI et générer une clé API, veuillez visiter la page d’accueil et consulter la section Tarification. | Sélectionnez la langue pour les définitions et les mnémotechniques : . | Choisissez parmi les options disponibles : Allemand (Allemagne, Suisse), Anglais (États-Unis, Royaume-Uni, Australie, Canada), Arabe (standard, égyptien), Cantonais, Chinois mandarin (simplifié, traditionnel), Coréen, Espagnol (Espagne, Amérique latine), Français (France, Canada), Hindi, Italien (Italie, Suisse), Japonais, Néerlandais (Pays-Bas, Belgique), Portugais (Portugal, Brésil) ou Russe. | . | . Fantastique progrès ! Vous avez réussi à configurer AnkiLingoFlash. Maintenant, passons à Générer votre première carte mémoire. ",
+    "url": "/fr/configure-ankilingoflash.html#option-b--utilisez-vos-propres-cr%C3%A9dits-openai",
+    
+    "relUrl": "/configure-ankilingoflash.html#option-b--utilisez-vos-propres-crédits-openai"
+  },"11": {
+    "doc": "3. Configurez AnkiLingoFlash",
+    "title": "3. Configurez AnkiLingoFlash",
+    "content": " ",
+    "url": "/fr/configure-ankilingoflash.html",
+    
+    "relUrl": "/configure-ankilingoflash.html"
+  },"12": {
+    "doc": "5. Configurez l'outil de synthèse vocale",
+    "title": "Configuration de l’outil de synthèse vocale",
+    "content": "Pour ajouter des guides de prononciation à vos cartes mémoires, vous devez configurer l’outil de synthèse vocale pour votre langue cible. Suivez ces étapes : . | Générez votre première carte mémoire comme décrit dans l’étape précédente. | Dans Anki, allez dans Outils &gt; Gérer les types de notes. | Vous devriez voir le type de flashcard correspondant à la langue du mot ou de la phrase que vous avez sélectionné. Par exemple, si vous avez sélectionné un terme en anglais américain, cherchez AnkiLingoFlash_Anglais (US) [1 note]. | Sélectionnez le type de carte approprié et cliquez sur Cartes…. | Dans l’éditeur de cartes : . | Cochez Modèle du verso. | Cliquez sur OK pour fermer tout message qui apparaît. | Cliquez sur Add TTS. | . | Configurez le service de synthèse vocale : . | Sélectionnez le service que vous souhaitez utiliser. Par exemple, pour l’anglais, vous pouvez choisir le service local gratuit Youdao Dictionary. | Choisissez la voix appropriée (par exemple, English, American [default] pour l’anglais américain). | Cliquez sur Save, puis sur OK. | . | Configurez les champs TTS : . | Pour l’option Field, sélectionnez Sélection. | Pour le champ Language, sélectionnez la langue souhaitée pour la synthèse vocale. | . | Finalisez la configuration : . | Cliquez sur Insert into Back Template. | Fermez le message qui apparaît en cliquant sur OK. | Dans le Modèle du verso, trouvez la ligne [Guide de prononciation pas encore installé et/ou configuré. Pour l'installer, cliquez ici. Pour le configurer, cliquez ici.] et remplacez-la par la ligne qui vient d’être ajoutée (elle devrait contenir la balise TTS). Par exemple, si vous avez choisi la voix anglaise américaine avec Youdao Dictionary, la ligne devrait ressembler à : {{tts en_US voices=AwesomeTTS:Selection}}. Notez que cette nouvelle ligne commence toujours par {{tts. | Cliquez sur Enregistrer. | . | . Important : Vous devrez répéter ce processus pour chaque langue que vous souhaitez apprendre. Félicitations ! Vous avez maintenant entièrement terminé la configuration d’AnkiLingoFlash. Vous pouvez maintenant réviser le premier mot ou la première expression que vous avez ajouté(e) à Anki, ou continuer à ajouter d’autres cartes mémoires. ",
+    "url": "/fr/configure-tts-tool.html#configuration-de-loutil-de-synth%C3%A8se-vocale",
+    
+    "relUrl": "/configure-tts-tool.html#configuration-de-loutil-de-synthèse-vocale"
+  },"13": {
+    "doc": "5. Configurez l'outil de synthèse vocale",
+    "title": "5. Configurez l'outil de synthèse vocale",
+    "content": " ",
+    "url": "/fr/configure-tts-tool.html",
+    
+    "relUrl": "/configure-tts-tool.html"
+  },"14": {
+    "doc": "4. Générez votre première carte mémoire",
+    "title": "Génération de votre première carte mémoire",
+    "content": "Maintenant que vous avez installé et configuré AnkiLingoFlash, il est temps de générer et d’ajouter votre première carte mémoire à Anki. Suivez ces étapes : . | Sélectionnez un mot ou une expression sur une page web. | Faites un clic droit sur la sélection. Cela ouvrira le menu contextuel. | Cliquez sur Générer une carte mémoire dans le menu contextuel. Cette action déclenchera la création d’une nouvelle carte mémoire par AnkiLingoFlash. | Suivez les instructions à l’écran pour créer et ajouter la carte mémoire à un paquet Anki. | . Excellent travail pour la création de votre première carte mémoire ! L’étape finale est de Configurer l’outil de synthèse vocale pour ajouter des guides de prononciation à vos cartes mémoires. ",
+    "url": "/fr/generate-your-first-flashcard.html#g%C3%A9n%C3%A9ration-de-votre-premi%C3%A8re-carte-m%C3%A9moire",
+    
+    "relUrl": "/generate-your-first-flashcard.html#génération-de-votre-première-carte-mémoire"
+  },"15": {
+    "doc": "4. Générez votre première carte mémoire",
+    "title": "4. Générez votre première carte mémoire",
+    "content": " ",
+    "url": "/fr/generate-your-first-flashcard.html",
+    
+    "relUrl": "/generate-your-first-flashcard.html"
+  },"16": {
+    "doc": "Commencer",
+    "title": "Commencer avec AnkiLingoFlash",
+    "content": "Suivez les étapes ci-dessous pour commencer votre aventure avec AnkiLingoFlash : . | Installer AnkiLingoFlash . | Configurer AnkiLingoFlash . | . Bon apprentissage avec AnkiLingoFlash ! . ",
+    "url": "/fr/getting-started.html#commencer-avec-ankilingoflash",
+    
+    "relUrl": "/getting-started.html#commencer-avec-ankilingoflash"
+  },"17": {
+    "doc": "Commencer",
+    "title": "Commencer",
+    "content": " ",
+    "url": "/fr/getting-started.html",
+    
+    "relUrl": "/getting-started.html"
+  },"18": {
+    "doc": "Accueil",
+    "title": "Transformez Votre Navigation sur le Web en Apprentissage des Langues",
+    "content": "Boostez votre expérience Anki avec l’extension de navigateur AnkiLingoFlash. ",
+    "url": "/fr/#transformez-votre-navigation-sur-le-web-en-apprentissage-des-langues",
+    
+    "relUrl": "/#transformez-votre-navigation-sur-le-web-en-apprentissage-des-langues"
+  },"19": {
+    "doc": "Accueil",
+    "title": "✨ Découvrez la puissance d’AnkiLingoFlash :",
+    "content": ". | Installez l’extension de navigateur | Naviguez sur vos sites web préférés comme d’habitude | Cliquez avec le bouton droit sur n’importe quel mot ou phrase que vous souhaitez apprendre | Recevez instantanément des flashcards générées par l’IA qui peuvent être ajoutées à Anki sans quitter votre navigateur ! | . Installer Maintenant . ",
+    "url": "/fr/#-d%C3%A9couvrez-la-puissance-dankilingoflash-",
+    
+    "relUrl": "/#-découvrez-la-puissance-dankilingoflash-"
+  },"20": {
+    "doc": "Accueil",
+    "title": "👀 Voyez AnkiLingoFlash en Action :",
+    "content": ". ",
+    "url": "/fr/#-voyez-ankilingoflash-en-action-",
+    
+    "relUrl": "/#-voyez-ankilingoflash-en-action-"
+  },"21": {
+    "doc": "Accueil",
+    "title": "💡 Pourquoi Choisir AnkiLingoFlash ?",
+    "content": ". | Flashcards Enrichies : Créez des flashcards complètes avec une traduction directe, une définition, un mnémonique et un guide de prononciation. | Intégration Transparente avec Anki : Générez et ajoutez des cartes à Anki directement depuis votre navigateur, sans taper et sans interrompre votre routine quotidienne. | Apprentissage Personnalisé : Créez des ensembles de flashcards personnalisés selon vos intérêts, plus besoin de télécharger des decks de qualité incertaine. | Sans Distraction : Pas de publicités, juste une concentration pure sur votre apprentissage des langues. | Indépendance des Flashcards : Toutes les flashcards créées avec AnkiLingoFlash restent dans votre deck Anki, même si vous arrêtez d’utiliser mon extension. | Apprentissage Abordable : Commencez avec une généreuse période d’essai gratuit, puis continuez à un coût minimal en utilisant vos propres crédits IA - je ne facture aucune majoration ! | . Intégrez AnkiLingoFlash dans votre routine quotidienne de navigation et regardez votre vocabulaire grandir jour après jour. 🌱 . ",
+    "url": "/fr/#-pourquoi-choisir-ankilingoflash-",
+    
+    "relUrl": "/#-pourquoi-choisir-ankilingoflash-"
+  },"22": {
+    "doc": "Accueil",
+    "title": "🌐 Langues prises en charge",
+    "content": "AnkiLingoFlash prend actuellement en charge les langues suivantes : . | Allemand (Allemagne, Suisse) | Anglais (États-Unis, Royaume-Uni, Australie, Canada) | Arabe (standard, égyptien) | Cantonais | Chinois mandarin (simplifié, traditionnel) | Coréen | Espagnol (Espagne, Amérique latine) | Français (France, Canada) | Hindi | Italien (Italie, Suisse) | Japonais | Néerlandais (Pays-Bas, Belgique) | Portugais (Portugal, Brésil) | Russe | . Veuillez noter que la qualité des cartes mémoire peut varier selon les langues. L’efficacité et la précision du contenu généré dépendent uniquement des performances des modèles d’IA (fournis par OpenAI) utilisés pour les créer. À mesure que la technologie d’IA évolue, vous pourrez remarquer des améliorations dans la qualité des cartes mémoire au fil du temps. Je travaille continuellement à l’expansion et à l’amélioration des offres linguistiques. Restez à l’écoute pour les mises à jour ! . ",
+    "url": "/fr/#supported-languages",
+    
+    "relUrl": "/#supported-languages"
+  },"23": {
+    "doc": "Accueil",
+    "title": "💸 Tarification",
+    "content": "AnkiLingoFlash offre un nombre limité de flashcards gratuites pour commencer. Ensuite, vous pouvez utiliser votre propre clé API OpenAI, ce qui est très économique (un dollar peut générer des milliers de flashcards). Utilisation de Votre Propre Clé API OpenAI . | Créez un Compte OpenAI : Rendez-vous sur le site web de ChatGPT et inscrivez-vous pour un compte. | Générez une Clé API : . | Une fois que vous avez un compte, naviguez vers la section des clés API. | Cliquez sur Créer une nouvelle clé secrète. | Choisissez un nom pour votre clé, comme AnkiLingoFlash. | Cliquez sur Créer une clé secrète. | Notez la clé générée, car vous devrez l’entrer dans les paramètres de l’extension AnkiLingoFlash. | . | Ajoutez des Fonds à Votre Compte : . | Dans le tableau de bord OpenAI, allez dans le menu Paramètres. | Naviguez vers la section Facturation. | Ajoutez un minimum de 5 $ USD (ou l’équivalent dans votre devise locale) à votre compte en utilisant une carte de crédit ou d’autres méthodes de paiement proposées sur le site. | . | Utilisez la Clé API dans AnkiLingoFlash : . | Copiez votre clé API et collez-la dans les paramètres de l’extension AnkiLingoFlash. | Après avoir entré votre clé API, cliquez sur le bouton de validation. | Une validation réussie sera indiquée par le changement de la couleur de la bordure du champ de texte en vert. | Note : Vous n’avez besoin d’entrer et de valider votre clé API qu’une seule fois. AnkiLingoFlash la stockera en toute sécurité pour une utilisation future. | . | . ",
+    "url": "/fr/#pricing",
+    
+    "relUrl": "/#pricing"
+  },"24": {
+    "doc": "Accueil",
+    "title": "Accueil",
+    "content": " ",
+    "url": "/fr/",
+    
+    "relUrl": "/"
+  },"25": {
+    "doc": "1. Installez Anki-Connect",
+    "title": "Installation d’Anki-Connect",
+    "content": "Anki-Connect est crucial pour qu’AnkiLingoFlash puisse communiquer avec votre application Anki. Voici comment l’installer : . | Ouvrez Anki et allez dans Outils &gt; Greffons &gt; Acquérir des greffons… . | Entrez le code 2055492159 puis cliquez sur OK. | Un message vous invitant à redémarrer Anki devrait alors apparaître; fermez-le en cliquant sur OK. | Retournez dans Outils &gt; Greffons . | Double-cliquez sur AnkiConnect dans la liste des greffons. | Mettez à jour la configuration comme suit : . | D’abord, sélectionnez tout le texte existant dans la fenêtre de configuration et supprimez-le. | Ensuite, copiez la nouvelle configuration suivante et collez-la dans la fenêtre de configuration maintenant vide : | . | . { \"apiKey\": null, \"apiLogPath\": null, \"ignoreOriginList\": [], \"webBindAddress\": \"127.0.0.1\", \"webBindPort\": 8765, \"webCorsOriginList\": [ \"chrome-extension://hicnjnfcmjfnomdfmekhigghmlkmachb\", \"http://localhost/*\", \"https://*/*\" ] } . Très bien ! Maintenant que vous avez installé Anki-Connect, passons à l’étape suivante : Installer AwesomeTTS. ",
+    "url": "/fr/install-anki-connect.html#installation-danki-connect",
+    
+    "relUrl": "/install-anki-connect.html#installation-danki-connect"
+  },"26": {
+    "doc": "1. Installez Anki-Connect",
+    "title": "1. Installez Anki-Connect",
+    "content": " ",
+    "url": "/fr/install-anki-connect.html",
+    
+    "relUrl": "/install-anki-connect.html"
+  },"27": {
+    "doc": "2. Installez AwesomeTTS",
+    "title": "Installation d’AwesomeTTS",
+    "content": "AwesomeTTS est un puissant outil de synthèse vocale pour Anki, nécessaire pour ajouter des guides de prononciation vocaux à vos cartes mémoires. Voici comment l’installer : . | Dans Anki, retournez dans Outils &gt; Greffons &gt; Acquérir des greffons… . | Entrez le code 1436550454, puis cliquez sur OK . | Redémarrez Anki lorsque vous y êtes invité . | . Excellent ! Avec AwesomeTTS installé, vous êtes prêt pour l’étape suivante : Configurer AnkiLingoFlash. ",
+    "url": "/fr/install-awesome-tts.html#installation-dawesometts",
+    
+    "relUrl": "/install-awesome-tts.html#installation-dawesometts"
+  },"28": {
+    "doc": "2. Installez AwesomeTTS",
+    "title": "2. Installez AwesomeTTS",
+    "content": " ",
+    "url": "/fr/install-awesome-tts.html",
+    
+    "relUrl": "/install-awesome-tts.html"
+  },"29": {
+    "doc": "Installation",
+    "title": "Installer AnkiLingoFlash",
+    "content": "Suivez ces étapes simples pour installer l’extension de navigateur AnkiLingoFlash : . | Visitez le Chrome Web Store | Cliquez sur le bouton Ajouter à Chrome | Suivez les instructions pour ajouter l’extension à votre navigateur | Une fois installée, vous verrez l’icône AnkiLingoFlash dans la barre d’outils de votre navigateur | . Remarque : AnkiLingoFlash est actuellement disponible pour Google Chrome. Le support pour d’autres navigateurs majeurs, y compris Microsoft Edge et Firefox, sera déployé dans les semaines à venir. Très bon travail ! Maintenant, apprenez à configurer AnkiLingoFlash. ",
+    "url": "/fr/installation.html#installer-ankilingoflash",
+    
+    "relUrl": "/installation.html#installer-ankilingoflash"
+  },"30": {
+    "doc": "Installation",
+    "title": "Installation",
+    "content": " ",
+    "url": "/fr/installation.html",
+    
+    "relUrl": "/installation.html"
+  },"31": {
+    "doc": "Tutoriel Rapide pour Configurer AnkiLingoFlash",
+    "title": "Tutoriel Rapide pour Configurer AnkiLingoFlash",
+    "content": "Suivez les étapes ci-dessous pour configurer AnkiLingoFlash. Cela ne vous prendra pas plus de 5 minutes. Si ce tutoriel n’est pas disponible dans la langue de votre installation Anki, je vous recommande de changer temporairement la langue de l’interface d’Anki pour l’une des langues prises en charge par le tutoriel (anglais, français, allemand, espagnol, italien, portugais ou danois). Cela vous permettra de suivre facilement les instructions et de comprendre sur quels boutons cliquer. Vous pourrez revenir à votre langue préférée après avoir terminé la configuration. | Installer Anki-Connect . | Installer AwesomeTTS . | Configurer AnkiLingoFlash . | Générer votre Première Flashcard . | Configurer l’Outil de Synthèse Vocale . | . ",
+    "url": "/fr/quick-tutorial.html",
+    
+    "relUrl": "/quick-tutorial.html"
+  },"32": {
+    "doc": "Soutenir AnkiLingoFlash",
+    "title": "Soutenir AnkiLingoFlash",
+    "content": "Votre soutien est inestimable pour aider AnkiLingoFlash à se développer et à s’améliorer. Si vous avez trouvé notre outil utile dans votre parcours d’apprentissage des langues, je vous serais reconnaissant de votre contribution financière. Votre soutien me motivera à continuer de maintenir et d’améliorer l’extension, et me permettra également d’offrir des crédits gratuits à plus d’utilisateurs. De plus, je suis toujours impatient d’entendre vos idées ! N’hésitez pas à me faire part des nouvelles fonctionnalités que vous aimeriez voir dans AnkiLingoFlash. Vos retours sont essentiels pour façonner l’avenir de cet outil et le rendre encore plus utile pour les apprenants de langues comme vous. Merci de faire partie de la communauté AnkiLingoFlash et d’aider à rendre cet outil encore meilleur ! . ",
+    "url": "/fr/support.html",
+    
+    "relUrl": "/support.html"
+  }
+}

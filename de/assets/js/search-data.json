@@ -1,0 +1,240 @@
+{"0": {
+    "doc": "Über Uns",
+    "title": "Über AnkiLingoFlash",
+    "content": " ",
+    "url": "/de/about.html#%C3%BCber-ankilingoflash",
+    
+    "relUrl": "/about.html#über-ankilingoflash"
+  },"1": {
+    "doc": "Über Uns",
+    "title": "🎯 Die Mission",
+    "content": "AnkiLingoFlash ist eine Webbrowser-Erweiterung, die darauf abzielt, das Sprachenlernen für alle zugänglicher, effizienter und angenehmer zu machen. Es wurde entwickelt, um Ihnen zu helfen, Ihre Sprachlernziele schneller als je zuvor zu erreichen. ",
+    "url": "/de/about.html#-die-mission",
+    
+    "relUrl": "/about.html#-die-mission"
+  },"2": {
+    "doc": "Über Uns",
+    "title": "🌟 Die Werte",
+    "content": ". | ⚡ Effizienz: AnkiLingoFlash ist darauf ausgelegt, die Anzahl der erforderlichen Aktionen (z.B. Klicks) des Benutzers zur Erstellung einer Karteikarte zu minimieren. Ich habe die Erfahrung auch werbefrei gehalten, sodass Sie sich ganz auf das Lernen konzentrieren können. | 🔒 Datenschutz: Ihr API-Schlüssel wird nur lokal auf Ihrem Gerät gespeichert und zur zusätzlichen Sicherheit verschlüsselt. Ich sammle oder speichere diese Informationen nicht. | 🔄 Kontinuierliche Verbesserung: AnkiLingoFlash wird mindestens einmal im Monat aktualisiert. Hier ist die Liste der Updates: . | Version 0.2.x: Optimierte Token-Nutzung, was zu effizienteren API-Aufrufen führt. Benutzer mit eigenem API-Schlüssel können jetzt OpenAI-Modelle jenseits von gpt-4o-mini für eine verbesserte Karteikartenerstellung wählen. | . | . ",
+    "url": "/de/about.html#-die-werte",
+    
+    "relUrl": "/about.html#-die-werte"
+  },"3": {
+    "doc": "Über Uns",
+    "title": "👨‍💻 Der Schöpfer",
+    "content": "Hallo, ich bin Victor Piriou. Für mich stellt AnkiLingoFlash ein Werkzeug dar, das ich mir gewünscht hätte, als ich angefangen habe, Deutsch zu lernen. 📬 Kontaktieren Sie Mich . Ich würde gerne von Ihnen hören! Egal, ob Sie Fragen, Vorschläge haben oder einfach Ihre Sprachlernreise teilen möchten: . | Email: support [at] ankilingoflash [dot] com | LinkedIn: Victor Piriou | . ",
+    "url": "/de/about.html#-der-sch%C3%B6pfer",
+    
+    "relUrl": "/about.html#-der-schöpfer"
+  },"4": {
+    "doc": "Über Uns",
+    "title": "Über Uns",
+    "content": " ",
+    "url": "/de/about.html",
+    
+    "relUrl": "/about.html"
+  },"5": {
+    "doc": "Blog",
+    "title": "AnkiLingoFlash-Blog",
+    "content": " ",
+    "url": "/de/blog.html#ankilingoflash-blog",
+    
+    "relUrl": "/blog.html#ankilingoflash-blog"
+  },"6": {
+    "doc": "Blog",
+    "title": "🚀 Beherrschen Sie eine neue Sprache in Monaten, nicht in Jahren: Nutzen Sie AnkiLingoFlash, um schnell eine solide Vokabelgrundlage aufzubauen",
+    "content": "16. July 2024 . ",
+    "url": "/de/blog.html",
+    
+    "relUrl": "/blog.html"
+  },"7": {
+    "doc": "Blog",
+    "title": "Blog",
+    "content": " ",
+    "url": "/de/blog.html",
+    
+    "relUrl": "/blog.html"
+  },"8": {
+    "doc": "3. Konfigurieren Sie AnkiLingoFlash",
+    "title": "Konfiguration von AnkiLingoFlash",
+    "content": "Nachdem Sie Anki-Connect und AwesomeTTS installiert haben, müssen Sie AnkiLingoFlash konfigurieren. Folgen Sie diesen Schritten: . | Klicken Sie auf das AnkiLingoFlash-Symbol in Ihrer Browser-Symbolleiste, um das Erweiterungs-Popup zu öffnen. | Im Popup sehen Sie zwei Optionen. Wählen Sie eine: . ",
+    "url": "/de/configure-ankilingoflash.html#konfiguration-von-ankilingoflash",
+    
+    "relUrl": "/configure-ankilingoflash.html#konfiguration-von-ankilingoflash"
+  },"9": {
+    "doc": "3. Konfigurieren Sie AnkiLingoFlash",
+    "title": "Option A: Kostenlose Testversion",
+    "content": ". | Klicken Sie auf die Schaltfläche Mit Google anmelden. | Folgen Sie den Anweisungen, um sich mit Ihrem Google-Konto zu authentifizieren. | Sobald Sie angemeldet sind, sehen Sie eine Willkommensnachricht und die Anzahl der verbleibenden kostenlosen Karteikarten. | . ",
+    "url": "/de/configure-ankilingoflash.html#option-a-kostenlose-testversion",
+    
+    "relUrl": "/configure-ankilingoflash.html#option-a-kostenlose-testversion"
+  },"10": {
+    "doc": "3. Konfigurieren Sie AnkiLingoFlash",
+    "title": "Option B: Verwenden Sie Ihre eigenen OpenAI-Guthaben",
+    "content": "Diese Option bietet unbegrenzte Karteikarten und ist sehr kostengünstig. Um mehr über die Verwendung Ihrer eigenen OpenAI-Guthaben zu erfahren, einschließlich der Einrichtung eines OpenAI-Kontos und der Generierung eines API-Schlüssels, besuchen Sie bitte die Homepage und sehen Sie sich den Preisabschnitt an. | Wählen Sie die Sprache für Definitionen und Merkhilfen: . | Wählen Sie aus den verfügbaren Optionen: Arabisch (Standard, Ägyptisch), Chinesisch (Mandarin, vereinfacht und traditionell), Deutsch (Deutschland, Schweiz), Englisch (USA, Großbritannien, Australien, Kanada), Französisch (Frankreich, Kanada), Hindi, Italienisch (Italien, Schweiz), Japanisch, Kantonesisch, Koreanisch, Niederländisch (Niederlande, Belgien), Portugiesisch (Portugal, Brasilien), Russisch oder Spanisch (Spanien, Lateinamerika). | . | . Fantastischer Fortschritt! Sie haben AnkiLingoFlash erfolgreich konfiguriert. Lassen Sie uns nun zu Generieren Sie Ihre erste Karteikarte übergehen. ",
+    "url": "/de/configure-ankilingoflash.html#option-b-verwenden-sie-ihre-eigenen-openai-guthaben",
+    
+    "relUrl": "/configure-ankilingoflash.html#option-b-verwenden-sie-ihre-eigenen-openai-guthaben"
+  },"11": {
+    "doc": "3. Konfigurieren Sie AnkiLingoFlash",
+    "title": "3. Konfigurieren Sie AnkiLingoFlash",
+    "content": " ",
+    "url": "/de/configure-ankilingoflash.html",
+    
+    "relUrl": "/configure-ankilingoflash.html"
+  },"12": {
+    "doc": "5. Konfigurieren Sie das Text-to-Speech-Tool",
+    "title": "Konfiguration des Text-to-Speech-Tools",
+    "content": "Um Ausspracheführer zu Ihren Karteikarten hinzuzufügen, müssen Sie das Text-to-Speech-Tool für Ihre Zielsprache konfigurieren. Folgen Sie diesen Schritten: . | Generieren Sie Ihre erste Karteikarte wie im vorherigen Schritt beschrieben. | Gehen Sie in Anki zu Extras &gt; Notiztypen verwalten. | Sie sollten den Karteikarten-Typ sehen, der der Sprache des von Ihnen ausgewählten Wortes oder Ausdrucks entspricht. Wenn Sie zum Beispiel einen amerikanisch-englischen Begriff ausgewählt haben, suchen Sie nach AnkiLingoFlash_Englisch (US) [1 Notiz]. | Wählen Sie den entsprechenden Kartentyp aus und klicken Sie auf Karten…. | Im Karteneditor: . | Markieren Sie Vorlage für Rückseite. | Klicken Sie auf OK, um alle angezeigten Meldungen zu schließen. | Klicken Sie auf Add TTS. | . | Konfigurieren Sie den Text-to-Speech-Dienst: . | Wählen Sie den Dienst aus, den Sie verwenden möchten. Für Englisch können Sie beispielsweise den kostenlosen lokalen Dienst Youdao Dictionary wählen. | Wählen Sie die passende Stimme (z.B. English, American [default] für amerikanisches Englisch). | Klicken Sie auf Save, dann auf OK. | . | Konfigurieren Sie die TTS-Felder: . | Für die Option Field wählen Sie Auswahl. | Für das Feld Language wählen Sie die gewünschte Sprache für die Sprachsynthese. | . | Schließen Sie die Konfiguration ab: . | Klicken Sie auf Insert into Back Template. | Schließen Sie die angezeigte Meldung, indem Sie auf OK klicken. | In der Vorlage für die Rückseite finden Sie die Zeile [Aussprachehilfe noch nicht installiert und/oder konfiguriert. Zum Installieren klicken Sie hier. Zum Konfigurieren klicken Sie hier.] und ersetzen Sie sie durch die Zeile, die gerade hinzugefügt wurde (sie sollte den TTS-Tag enthalten). Wenn Sie beispielsweise die amerikanische englische Stimme mit Youdao Dictionary gewählt haben, sollte die Zeile so aussehen: {{tts en_US voices=AwesomeTTS:Selection}}. Beachten Sie, dass diese neue Zeile immer mit {{tts beginnt. | Klicken Sie auf Speichern. | . | . Wichtig: Sie müssen diesen Prozess für jede Sprache wiederholen, die Sie lernen möchten. Herzlichen Glückwunsch! Sie haben nun die gesamte Konfiguration von AnkiLingoFlash abgeschlossen. Sie können jetzt das erste Wort oder den ersten Ausdruck überprüfen, den Sie in Schritt 3 zu Anki hinzugefügt haben, oder fortfahren, weitere Karteikarten hinzuzufügen. ",
+    "url": "/de/configure-tts-tool.html#konfiguration-des-text-to-speech-tools",
+    
+    "relUrl": "/configure-tts-tool.html#konfiguration-des-text-to-speech-tools"
+  },"13": {
+    "doc": "5. Konfigurieren Sie das Text-to-Speech-Tool",
+    "title": "5. Konfigurieren Sie das Text-to-Speech-Tool",
+    "content": " ",
+    "url": "/de/configure-tts-tool.html",
+    
+    "relUrl": "/configure-tts-tool.html"
+  },"14": {
+    "doc": "4. Generieren Sie Ihre erste Karteikarte",
+    "title": "Generierung Ihrer ersten Karteikarte",
+    "content": "Jetzt, da Sie AnkiLingoFlash installiert und konfiguriert haben, ist es Zeit, Ihre erste Karteikarte zu generieren und zu Anki hinzuzufügen. Folgen Sie diesen Schritten: . | Wählen Sie ein Wort oder einen Ausdruck auf einer Webseite aus. | Klicken Sie mit der rechten Maustaste auf die Auswahl. Dies öffnet das Kontextmenü. | Klicken Sie im Kontextmenü auf Karteikarte generieren. Diese Aktion veranlasst AnkiLingoFlash, eine neue Karteikarte zu erstellen. | Folgen Sie den Anweisungen auf dem Bildschirm, um die Karteikarte zu erstellen und einem Anki-Deck hinzuzufügen. | . Großartige Arbeit bei der Erstellung Ihrer ersten Karteikarte! Der letzte Schritt ist die Konfiguration des Text-to-Speech-Tools, um Ausspracheführer zu Ihren Karteikarten hinzuzufügen. ",
+    "url": "/de/generate-your-first-flashcard.html#generierung-ihrer-ersten-karteikarte",
+    
+    "relUrl": "/generate-your-first-flashcard.html#generierung-ihrer-ersten-karteikarte"
+  },"15": {
+    "doc": "4. Generieren Sie Ihre erste Karteikarte",
+    "title": "4. Generieren Sie Ihre erste Karteikarte",
+    "content": " ",
+    "url": "/de/generate-your-first-flashcard.html",
+    
+    "relUrl": "/generate-your-first-flashcard.html"
+  },"16": {
+    "doc": "Erste Schritte",
+    "title": "Erste Schritte mit AnkiLingoFlash",
+    "content": "Folgen Sie den untenstehenden Schritten, um Ihre Reise mit AnkiLingoFlash zu beginnen: . | AnkiLingoFlash installieren . | AnkiLingoFlash einrichten . | . Viel Spaß beim Lernen mit AnkiLingoFlash! . ",
+    "url": "/de/getting-started.html#erste-schritte-mit-ankilingoflash",
+    
+    "relUrl": "/getting-started.html#erste-schritte-mit-ankilingoflash"
+  },"17": {
+    "doc": "Erste Schritte",
+    "title": "Erste Schritte",
+    "content": " ",
+    "url": "/de/getting-started.html",
+    
+    "relUrl": "/getting-started.html"
+  },"18": {
+    "doc": "Home",
+    "title": "Verwandeln Sie Ihr Surfen im Internet in Sprachenlernen",
+    "content": "Steigern Sie Ihre Anki-Erfahrung mit der AnkiLingoFlash-Browsererweiterung. ",
+    "url": "/de/#verwandeln-sie-ihr-surfen-im-internet-in-sprachenlernen",
+    
+    "relUrl": "/#verwandeln-sie-ihr-surfen-im-internet-in-sprachenlernen"
+  },"19": {
+    "doc": "Home",
+    "title": "✨ Erleben Sie die Kraft von AnkiLingoFlash:",
+    "content": ". | Installieren Sie die Browsererweiterung | Surfen Sie wie gewohnt auf Ihren Lieblingswebsites | Klicken Sie mit der rechten Maustaste auf Wörter oder Ausdrücke, die Sie lernen möchten | Erhalten Sie sofort KI-generierte Karteikarten, die direkt in Anki eingefügt werden können, ohne den Browser zu verlassen! | . Jetzt Installieren . ",
+    "url": "/de/#-erleben-sie-die-kraft-von-ankilingoflash",
+    
+    "relUrl": "/#-erleben-sie-die-kraft-von-ankilingoflash"
+  },"20": {
+    "doc": "Home",
+    "title": "👀 Sehen Sie AnkiLingoFlash in Aktion:",
+    "content": ". ",
+    "url": "/de/#-sehen-sie-ankilingoflash-in-aktion",
+    
+    "relUrl": "/#-sehen-sie-ankilingoflash-in-aktion"
+  },"21": {
+    "doc": "Home",
+    "title": "💡 Warum AnkiLingoFlash wählen?",
+    "content": ". | Erweiterte Karteikarten: Erstellen Sie umfassende Karteikarten mit einer direkten Übersetzung, einer Definition, einer Gedächtnisstütze und einer Ausspracheanleitung. | Nahtlose Anki-Integration: Erzeugen und fügen Sie Karten direkt von Ihrem Browser in Anki ein, ohne zu tippen und Ihren täglichen Ablauf zu unterbrechen. | Personalisiertes Lernen: Erstellen Sie personalisierte Karteikartensets, die auf Ihre Interessen zugeschnitten sind, ohne unsichere Qualitätsdecks herunterladen zu müssen. | Ablenkungsfrei: Keine Werbung, nur reine Konzentration auf Ihre Sprachlernreise. | Karteikarten-Unabhängigkeit: Alle mit AnkiLingoFlash erstellten Karteikarten bleiben in Ihrem Anki-Deck, auch wenn Sie meine Erweiterung nicht mehr verwenden. | Erschwingliches Lernen: Beginnen Sie mit einer großzügigen kostenlosen Testversion und setzen Sie dann zu minimalen Kosten fort, indem Sie Ihre eigenen KI-Credits verwenden - ich berechne keinen Aufschlag! | . Integrieren Sie AnkiLingoFlash in Ihre tägliche Surfroutine und sehen Sie, wie Ihr Wortschatz Tag für Tag wächst. 🌱 . ",
+    "url": "/de/#-warum-ankilingoflash-w%C3%A4hlen",
+    
+    "relUrl": "/#-warum-ankilingoflash-wählen"
+  },"22": {
+    "doc": "Home",
+    "title": "🌐 Unterstützte Sprachen",
+    "content": "AnkiLingoFlash unterstützt derzeit die folgenden Sprachen: . | Arabisch (Standard, Ägyptisch) | Chinesisch (Mandarin, vereinfacht und traditionell) | Deutsch (Deutschland, Schweiz) | Englisch (USA, Großbritannien, Australien, Kanada) | Französisch (Frankreich, Kanada) | Hindi | Italienisch (Italien, Schweiz) | Japanisch | Kantonesisch | Koreanisch | Niederländisch (Niederlande, Belgien) | Portugiesisch (Portugal, Brasilien) | Russisch | Spanisch (Spanien, Lateinamerika) | . Bitte beachten Sie, dass die Qualität der Lernkarten je nach Sprache variieren kann. Die Effektivität und Genauigkeit des generierten Inhalts hängen ausschließlich von der Leistung der KI-Modelle (bereitgestellt von OpenAI) ab, die zu ihrer Erstellung verwendet werden. Mit der Weiterentwicklung der KI-Technologie werden Sie möglicherweise im Laufe der Zeit Verbesserungen in der Qualität der Lernkarten bemerken. Ich arbeite kontinuierlich daran, das Sprachangebot zu erweitern und zu verfeinern. Bleiben Sie auf dem Laufenden für Updates! . ",
+    "url": "/de/#supported-languages",
+    
+    "relUrl": "/#supported-languages"
+  },"23": {
+    "doc": "Home",
+    "title": "💸 Preise",
+    "content": "AnkiLingoFlash bietet eine begrenzte Anzahl kostenloser Karteikarten, um Ihnen den Einstieg zu erleichtern. Danach können Sie Ihren eigenen OpenAI-API-Schlüssel verwenden, der sehr kostengünstig ist (ein Dollar kann Tausende von Karteikarten generieren). Verwendung Ihres eigenen OpenAI-API-Schlüssels . | Erstellen Sie ein OpenAI-Konto: Gehen Sie zur ChatGPT-Website und melden Sie sich für ein Konto an. | Erzeugen Sie einen API-Schlüssel: . | Sobald Sie ein Konto haben, navigieren Sie zur API-Schlüssel-Sektion. | Klicken Sie auf Neuen geheimen Schlüssel erstellen. | Wählen Sie einen Namen für Ihren Schlüssel, z.B. AnkiLingoFlash. | Klicken Sie auf Geheimen Schlüssel erstellen. | Notieren Sie den generierten Schlüssel, da Sie ihn in die Einstellungen der AnkiLingoFlash-Erweiterung eingeben müssen. | . | Fügen Sie Ihrem Konto Guthaben hinzu: . | Gehen Sie im OpenAI-Dashboard zum Menü Einstellungen. | Navigieren Sie zum Abschnitt Abrechnung. | Fügen Sie mindestens $5 USD (oder den entsprechenden Betrag in Ihrer Landeswährung) Ihrem Konto hinzu, indem Sie eine Kreditkarte oder andere auf der Website angebotene Zahlungsmethoden verwenden. | . | Verwenden Sie den API-Schlüssel in AnkiLingoFlash: . | Kopieren Sie Ihren API-Schlüssel und fügen Sie ihn in die Einstellungen der AnkiLingoFlash-Erweiterung ein. | Klicken Sie nach Eingabe Ihres API-Schlüssels auf die Schaltfläche zur Validierung. | Eine erfolgreiche Validierung wird durch das Ändern der Textfeldrahmenfarbe zu Grün angezeigt. | Hinweis: Sie müssen Ihren API-Schlüssel nur einmal eingeben und validieren. AnkiLingoFlash speichert ihn sicher für zukünftige Verwendungen. | . | . ",
+    "url": "/de/#pricing",
+    
+    "relUrl": "/#pricing"
+  },"24": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/de/",
+    
+    "relUrl": "/"
+  },"25": {
+    "doc": "1. Installieren Sie Anki-Connect",
+    "title": "Installation von Anki-Connect",
+    "content": "Anki-Connect ist entscheidend für die Kommunikation zwischen AnkiLingoFlash und Ihrer Anki-Anwendung. Hier ist, wie Sie es installieren: . | Öffnen Sie Anki und gehen Sie zu Extras &gt; Erweiterungen &gt; Erweiterungen herunterladen … . | Geben Sie den Code 2055492159 ein und klicken Sie auf OK. | Eine Meldung wird Sie auffordern, Anki neu zu starten; schließen Sie sie, indem Sie auf OK klicken. | Gehen Sie zurück zu Extras &gt; Erweiterungen . | Doppelklicken Sie auf AnkiConnect in der Add-on-Liste. | Aktualisieren Sie die Konfiguration wie folgt: . | Wählen Sie zuerst den gesamten vorhandenen Text im Konfigurationsfenster aus und löschen Sie ihn. | Kopieren Sie dann die folgende neue Konfiguration und fügen Sie sie in das nun leere Konfigurationsfenster ein: | . | . { \"apiKey\": null, \"apiLogPath\": null, \"ignoreOriginList\": [], \"webBindAddress\": \"127.0.0.1\", \"webBindPort\": 8765, \"webCorsOriginList\": [ \"chrome-extension://hicnjnfcmjfnomdfmekhigghmlkmachb\", \"http://localhost/*\", \"https://*/*\" ] } . Sehr gut! Jetzt, da Sie Anki-Connect installiert haben, lassen Sie uns zum nächsten Schritt übergehen: Installieren Sie AwesomeTTS. ",
+    "url": "/de/install-anki-connect.html#installation-von-anki-connect",
+    
+    "relUrl": "/install-anki-connect.html#installation-von-anki-connect"
+  },"26": {
+    "doc": "1. Installieren Sie Anki-Connect",
+    "title": "1. Installieren Sie Anki-Connect",
+    "content": " ",
+    "url": "/de/install-anki-connect.html",
+    
+    "relUrl": "/install-anki-connect.html"
+  },"27": {
+    "doc": "2. Installieren Sie AwesomeTTS",
+    "title": "Installation von AwesomeTTS",
+    "content": "AwesomeTTS ist ein leistungsstarkes Text-to-Speech-Tool für Anki, das notwendig ist, um Ausspracheführer zu Ihren Karteikarten hinzuzufügen. Hier ist, wie Sie es installieren: . | Gehen Sie in Anki zurück zu Extras &gt; Erweiterungen &gt; Erweiterungen herunterladen … . | Geben Sie den Code 1436550454 ein, klicken Sie dann auf OK . | Starten Sie Anki neu, wenn Sie dazu aufgefordert werden . | . Ausgezeichnet! Mit installiertem AwesomeTTS sind Sie bereit für den nächsten Schritt: Konfigurieren Sie AnkiLingoFlash. ",
+    "url": "/de/install-awesome-tts.html#installation-von-awesometts",
+    
+    "relUrl": "/install-awesome-tts.html#installation-von-awesometts"
+  },"28": {
+    "doc": "2. Installieren Sie AwesomeTTS",
+    "title": "2. Installieren Sie AwesomeTTS",
+    "content": " ",
+    "url": "/de/install-awesome-tts.html",
+    
+    "relUrl": "/install-awesome-tts.html"
+  },"29": {
+    "doc": "Installation",
+    "title": "AnkiLingoFlash installieren",
+    "content": "Folgen Sie diesen einfachen Schritten, um die AnkiLingoFlash-Browsererweiterung zu installieren: . | Besuchen Sie den Chrome Web Store | Klicken Sie auf die Schaltfläche Zu Chrome hinzufügen | Folgen Sie den Anweisungen, um die Erweiterung zu Ihrem Browser hinzuzufügen | Nach der Installation sehen Sie das AnkiLingoFlash-Symbol in der Symbolleiste Ihres Browsers | . Hinweis: AnkiLingoFlash ist derzeit für Google Chrome verfügbar. Die Unterstützung für andere gängige Browser, einschließlich Microsoft Edge und Firefox, wird in den kommenden Wochen eingeführt. Sehr gute Arbeit! Jetzt lernen Sie, wie Sie AnkiLingoFlash einrichten. ",
+    "url": "/de/installation.html#ankilingoflash-installieren",
+    
+    "relUrl": "/installation.html#ankilingoflash-installieren"
+  },"30": {
+    "doc": "Installation",
+    "title": "Installation",
+    "content": " ",
+    "url": "/de/installation.html",
+    
+    "relUrl": "/installation.html"
+  },"31": {
+    "doc": "Schnelles Tutorial zur Einrichtung von AnkiLingoFlash",
+    "title": "Schnelles Tutorial zur Einrichtung von AnkiLingoFlash",
+    "content": "Folgen Sie den untenstehenden Schritten, um AnkiLingoFlash einzurichten. Es dauert nicht länger als 5 Minuten. Wenn dieses Tutorial nicht in der Sprache Ihrer Anki-Installation verfügbar ist, empfehle ich Ihnen, die Sprache der Anki-Oberfläche vorübergehend auf eine der vom Tutorial unterstützten Sprachen (Englisch, Französisch, Deutsch, Spanisch, Italienisch, Portugiesisch oder Dänisch) umzustellen. So können Sie den Anweisungen leicht folgen und verstehen, auf welche Schaltflächen Sie klicken müssen. Sie können nach Abschluss der Einrichtung wieder zu Ihrer bevorzugten Sprache zurückkehren. | Anki-Connect installieren . | AwesomeTTS installieren . | AnkiLingoFlash konfigurieren . | Ihre erste Karteikarte generieren . | Text-to-Speech-Tool konfigurieren . | . ",
+    "url": "/de/quick-tutorial.html#schnelles-tutorial-zur-einrichtung-von-ankilingoflash",
+    
+    "relUrl": "/quick-tutorial.html#schnelles-tutorial-zur-einrichtung-von-ankilingoflash"
+  },"32": {
+    "doc": "Schnelles Tutorial zur Einrichtung von AnkiLingoFlash",
+    "title": "Schnelles Tutorial zur Einrichtung von AnkiLingoFlash",
+    "content": " ",
+    "url": "/de/quick-tutorial.html",
+    
+    "relUrl": "/quick-tutorial.html"
+  },"33": {
+    "doc": "Unterstütze AnkiLingoFlash",
+    "title": "Unterstütze AnkiLingoFlash",
+    "content": "Ihre Unterstützung ist von unschätzbarem Wert, um AnkiLingoFlash beim Wachsen und Verbessern zu helfen. Wenn Sie unser Tool in Ihrem Sprachlernweg hilfreich gefunden haben, wäre ich dankbar für Ihre finanzielle Unterstützung. Ihre Unterstützung wird mich motivieren, die Erweiterung weiterhin zu pflegen und zu verbessern und es mir auch ermöglichen, mehr Nutzern kostenlose Credits zur Verfügung zu stellen. Außerdem freue ich mich immer, Ihre Ideen zu hören! Zögern Sie nicht, mir mitzuteilen, welche neuen Funktionen Sie in AnkiLingoFlash sehen möchten. Ihr Feedback ist entscheidend, um die Zukunft dieses Tools zu gestalten und es noch nützlicher für Sprachlerner wie Sie zu machen. Vielen Dank, dass Sie Teil der AnkiLingoFlash-Community sind und dabei helfen, dieses Tool noch besser zu machen! . ",
+    "url": "/de/support.html",
+    
+    "relUrl": "/support.html"
+  }
+}
