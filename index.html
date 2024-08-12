@@ -3,24 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Choose Your Language</title>
-    <style>
-        body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
-        .language-selector { text-align: center; }
-        a { display: block; margin: 10px; padding: 10px; background-color: #f0f0f0; text-decoration: none; color: #333; border-radius: 5px; }
-        a:hover { background-color: #e0e0e0; }
-    </style>
+    <title>AnkiLingoFlash - Redirecting...</title>
+    <script>
+        function getLanguage() {
+            var lang = navigator.language || navigator.userLanguage;
+            lang = lang.substr(0, 2).toLowerCase();
+            var supportedLangs = ['en', 'fr', 'es', 'de', 'it', 'pt', 'da'];
+            return supportedLangs.includes(lang) ? lang : 'en';
+        }
+        var lang = getLanguage();
+        if (lang === 'pt') lang = 'pt-PT';  // Special case for Portuguese
+        window.location.replace('/' + lang + '/');
+    </script>
 </head>
 <body>
-    <div class="language-selector">
-        <h1>Choose Your Language / Choisissez votre langue</h1>
-        <a href="/en">English</a>
-        <a href="/fr">Français</a>
-        <a href="/es">Español</a>
-        <a href="/de">Deutsch</a>
-        <a href="/it">Italiano</a>
-        <a href="/pt-PT">Português</a>
-        <a href="/da">Dansk</a>
-    </div>
+    <noscript>
+        <meta http-equiv="refresh" content="0;url=/en/">
+    </noscript>
+    <p>Redirecting to the appropriate language version...</p>
 </body>
 </html>
