@@ -146,9 +146,11 @@ function activateNav() {
 // Document ready
 
 jtd.onReady(function(){
-  initNav();
-  activateNav();
-  scrollNav();
+  if (document.getElementById('site-nav')) {
+    initNav();
+    activateNav();
+    scrollNav();
+  }
 });
 
 // Copy button on code
