@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-09-09T07:32:20+00:00</updated><id>/feed.xml</id><title type="html">AnkiLingoFlash&lt;span class=&quot;site-logo&quot;&gt;&lt;/span&gt;</title><subtitle>Master Languages Faster with AI-Powered Flashcards</subtitle><entry xml:lang="en"><title type="html">🚀 Master a New Language in Months, Not Years: Use AnkiLingoFlash to Quickly Build a Strong Vocabulary Foundation</title><link href="/language-learning/2024/07/16/master-a-new-language.html" rel="alternate" type="text/html" title="🚀 Master a New Language in Months, Not Years: Use AnkiLingoFlash to Quickly Build a Strong Vocabulary Foundation" /><published>2024-07-16T00:00:00+00:00</published><updated>2024-07-16T00:00:00+00:00</updated><id>/language-learning/2024/07/16/master-a-new-language</id><content type="html" xml:base="/language-learning/2024/07/16/master-a-new-language.html"><![CDATA[<h1 id="-master-a-new-language-in-months-not-years-use-ankilingoflash-to-quickly-build-a-strong-vocabulary-foundation">🚀 Master a New Language in Months, Not Years: Use AnkiLingoFlash to Quickly Build a Strong Vocabulary Foundation</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-09-21T14:48:32+00:00</updated><id>/feed.xml</id><title type="html">AnkiLingoFlash&lt;span class=&quot;site-logo&quot;&gt;&lt;/span&gt;</title><subtitle>Master Languages Faster with AI-Powered Flashcards</subtitle><entry xml:lang="en"><title type="html">🚀 Master a New Language in Months, Not Years: Use AnkiLingoFlash to Quickly Build a Strong Vocabulary Foundation</title><link href="/language-learning/2024/07/16/master-a-new-language.html" rel="alternate" type="text/html" title="🚀 Master a New Language in Months, Not Years: Use AnkiLingoFlash to Quickly Build a Strong Vocabulary Foundation" /><published>2024-07-16T00:00:00+00:00</published><updated>2024-07-16T00:00:00+00:00</updated><id>/language-learning/2024/07/16/master-a-new-language</id><content type="html" xml:base="/language-learning/2024/07/16/master-a-new-language.html"><![CDATA[<h1 id="-master-a-new-language-in-months-not-years-use-ankilingoflash-to-quickly-build-a-strong-vocabulary-foundation">🚀 Master a New Language in Months, Not Years: Use AnkiLingoFlash to Quickly Build a Strong Vocabulary Foundation</h1>
 
 <h2 id="-table-of-contents">📚 Table of Contents</h2>
 <ol>
@@ -86,14 +86,14 @@
 
 <p align="center">
    <img src="img/2.png" alt="Screenshot: Confirmation interface of the generated card" style="max-width: 100%; height: auto; flex: 1 1 200px;" /><br />
-   <em>Review the flashcard: Check the AI-generated definition, direct translation and mnemonic. Request a new generation or edit manually if needed.</em>
+   <em>Review the flashcard: Check the AI-generated direct translation, definition, example sentences, and mnemonic. You can request a new generation or manually edit any part of the card if needed.</em>
 </p>
 
-<h5 id="-language-confirmation">✅ Language Confirmation</h5>
+<h5 id="-deck-selection">📂 Deck Selection</h5>
 
 <p align="center">
    <img src="img/3.png" alt="Screenshot: Language selection for the word" style="max-width: 100%; height: auto; flex: 1 1 200px;" /><br />
-   <em>Choose the deck: Select the Anki deck to add your new flashcard to, and you're done! Also, define the language of the selected word if the automatic detection fails.</em>
+   <em>Choose the deck: Select the Anki deck to add your new flashcard to, and you're done! If needed, you can also request the creation of a reverse flashcard.</em>
 </p>
 
 <h5 id="-reviewing-in-anki">📚 Reviewing in Anki</h5>
@@ -105,18 +105,20 @@
 
 <p align="center"><em>Review in Anki: After creating your flashcards, review them in Anki and use the pronunciation guide as many times as you need.</em></p>
 
-<p>These aren’t just simple word-definition pairs. Each flashcard is carefully structured to optimise learning:</p>
+<p>These aren’t just simple word-definition pairs. Each flashcard is carefully structured to optimize learning:</p>
 
 <p>Front of the card (question side):</p>
 <ul>
+  <li>A direct translation of the term in your preferred language</li>
   <li>A clear, concise definition of the term</li>
 </ul>
 
 <p>Back of the card (answer side):</p>
 <ul>
-  <li>The selected term and its direct translation in your favourite language</li>
+  <li>The term you want to learn in the target language</li>
   <li>An audio pronunciation guide for the term</li>
-  <li>An AI-generated mnemonic aid for better retention</li>
+  <li>Three example sentences using the term in context</li>
+  <li>A mnemonic device to aid memorization</li>
 </ul>
 
 <p>By automating the card creation process, AnkiLingoFlash allows you to focus on what truly matters—learning and retaining new vocabulary. This focus on vocabulary acquisition is crucial in language learning, as it forms the foundation for fluency and effective communication.</p>
