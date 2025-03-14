@@ -25,7 +25,7 @@ AnkiLingoFlash is a web browser extension aiming to make language learning more 
      - Optimised token usage, resulting in more efficient API calls
      - Users with their own API key can now choose OpenAI models besides gpt-4 for enhanced flashcard generation
 
-4. **🌍 Open Source**: AnkiLingoFlash is an open-source project, licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. This license allows you to use, modify, and distribute the software, provided you adhere to the terms of the license. Commercial use is prohibited without explicit permission from the author. You can view the source code and contribute on GitHub:
+4. **🌍 Open Source**: AnkiLingoFlash is an open-source project, licensed under the **MIT License**. This license allows you to use, modify, distribute, and even use the software commercially, provided you credit the author. You can view the source code and contribute on GitHub:
 - GitHub: [AnkiLingoFlash Repository](https://github.com/pictoune/AnkiLingoFlash)
 
 ## 👨‍💻 The Author
