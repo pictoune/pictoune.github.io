@@ -9,7 +9,10 @@ AnkiLingoFlash is a web browser extension aiming to make language learning more 
 
 2. **🔒 Privacy**: Your API key is only stored locally on your device and is encrypted for added security. I do not collect or store this information.
 
-3. **🔄 Continuous Improvement**: AnkiLingoFlash will be updated at least once a month. Here's the list of updates:
+3. **🔄 Continuous Improvement**: AnkiLingoFlash will be updated based on user feedback and feature requests. Here's the list of updates:
+   - Version 0.5.x:
+     - Added support for the Google Gemini API
+     - Added Persian (Farsi) to the list of supported languages
    - Version 0.4.x:
      - Each card now includes 3 example sentences tailored to the user's learning objective
      - Replaced AwesomeTTS with HyperTTS, allowing users to use their own API key for text-to-speech audio generation
